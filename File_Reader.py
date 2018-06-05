@@ -27,7 +27,7 @@ import Prediction_Data_Reader
 # For Victor's flashdrive
 #os.chdir('F:\\Radio_Jove\\University_of_Delawa_test') 
 
-# For Victor's flashdrive on the laptop
+# For UD Lab Computer
 os.chdir('C:\Users\spencer\AppData\Local\VirtualStore\Program Files (x86)\Radio-SkyPipe II\University_of_Delawa\\') 
 
 #os.chdir('F:\Radio_Jove\University_of_Delawa_test')

@@ -9,25 +9,7 @@ import os
 import SPD_Reader_Vic
 import Prediction_Data_Reader
 
-##############################################################################
-# Functions
-
-
-
-
-
-
-
-
-##############################################################################
-
-# For Victor's computer
-#os.chdir('C:\\Users\\Victor A\Desktop\Radio_Jove_Research\\1705_test') 
-
-# For Victor's flashdrive
-#os.chdir('F:\\Radio_Jove\\University_of_Delawa_test') 
-
-# For UD Lab Computer
+##### For UD Lab Computer (Change line below for new computers!)
 os.chdir('C:\Users\spencer\AppData\Local\VirtualStore\Program Files (x86)\Radio-SkyPipe II\University_of_Delawa\\') 
 
 #os.chdir('F:\Radio_Jove\University_of_Delawa_test')
@@ -51,9 +33,7 @@ Jove_data_folder = os.listdir(current_dir)
 #print(files)
 
 for f_year_months in Jove_data_folder:
-    # For Victor's flashdrive
-    #os.chdir('F:\\Radio_Jove\\University_of_Delawa_test\\' + f_year_months)
-    # For Victor's flashdrive Laptop
+    ###### For UD Lab Computer (Change line below for new computers!)
     os.chdir('C:\Users\spencer\AppData\Local\VirtualStore\Program Files (x86)\Radio-SkyPipe II\University_of_Delawa\\' + f_year_months)
     
     
@@ -61,12 +41,7 @@ for f_year_months in Jove_data_folder:
     f_year_month_day = os.listdir(current_dir)
     
     for file_name in f_year_month_day:
-        # For Victor's Computer
-        #os.chdir('C:\\Users\\Victor A\Desktop\Radio_Jove_Research\\1705_test\\' + file_name) 
-        
-        # For Victor's flashdrive
-        #os.chdir('F:\\Radio_Jove\\University_of_Delawa_test\\' + f_year_months + '\\' + file_name) 
-        # For Victor's flashdrive Laptop
+        ###### For UD Lab Computer (Change line below for new computers!)
         os.chdir('C:\Users\spencer\AppData\Local\VirtualStore\Program Files (x86)\Radio-SkyPipe II\University_of_Delawa\\' + f_year_months + '\\' + file_name) 
         
         # list of spd files in current directory

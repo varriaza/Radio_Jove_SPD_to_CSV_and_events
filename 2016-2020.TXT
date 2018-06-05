@@ -1,0 +1,6041 @@
+JUPITER EVENT PREDICTIONS
+
+Report Period  (GMT) 2016/02/01  to  2020/02/01    ( YYYY/MM/DD )
+Reference Coordinates:  Longitude 75:45:09.1 W     Latitude 39:40:46.0
+Exclude times when Jupiter is below 0 deg.
+Exclude times when Sun is above 30 deg.
+Include only events that last at least  .5 minutes.
+Radio-Jupiter Pro Software Version 3.7.0
+
+< Year 2016   Month 2   Day 2 >
+
+           Begin      End     
+ Io A      01:38     01:44                                            
+ Hr Ang    -06.0     -05.9     
+
+_______________________________
+
+< Year 2016   Month 2   Day 3 >
+
+           Begin      End     
+ Io B      01:58     02:32                                            
+ Hr Ang    -05.6     -05.0     
+
+_______________________________
+
+< Year 2016   Month 2   Day 5 >
+
+           Begin      End     
+ Io A      07:29     09:08                                            
+ Hr Ang    00.1      01.7      
+
+ Io C      11:01     11:04                                            
+ Hr Ang    03.6      03.7      
+
+_______________________________
+
+< Year 2016   Month 2   Day 6 >
+
+           Begin      End     
+ Io B      11:40     12:25                                            
+ Hr Ang    04.3      05.1      
+
+_______________________________
+
+< Year 2016   Month 2   Day 7 >
+
+           Begin      End     
+ Io A      08:14     10:15                                            
+ Hr Ang    01.0      03.0      
+
+_______________________________
+
+< Year 2016   Month 2   Day 9 >
+
+           Begin      End     
+ Io A      01:08     02:26                                            
+ Hr Ang    -06.0     -04.7     
+
+ Io C      02:25     02:53                                            
+ Hr Ang    -04.7     -04.3     
+
+_______________________________
+
+< Year 2016   Month 2   Day 10 >
+
+           Begin      End     
+ Io B      02:40     04:17                                            
+ Hr Ang    -04.4     -02.8     
+
+_______________________________
+
+< Year 2016   Month 2   Day 12 >
+
+           Begin      End     
+ Io A      09:14     09:50                                            
+ Hr Ang    02.3      02.9      
+
+_______________________________
+
+< Year 2016   Month 2   Day 14 >
+
+           Begin      End     
+ Io A      08:56     11:27                                            
+ Hr Ang    02.2      04.7      
+
+_______________________________
+
+< Year 2016   Month 2   Day 16 >
+
+           Begin      End     
+ Io A      00:38     03:08                                            
+ Hr Ang    -06.0     -03.5     
+
+ Io C      03:06     04:38                                            
+ Hr Ang    -03.5     -02.0     
+
+_______________________________
+
+< Year 2016   Month 2   Day 17 >
+
+           Begin      End     
+ Io B      03:22     06:01                                            
+ Hr Ang    -03.2     -00.5     
+
+_______________________________
+
+< Year 2016   Month 2   Day 21 >
+
+           Begin      End     
+ Io A      09:38     12:08                                            
+ Hr Ang    03.4      05.9      
+
+_______________________________
+
+< Year 2016   Month 2   Day 23 >
+
+           Begin      End     
+ Io A      01:19     03:50                                            
+ Hr Ang    -04.8     -02.3     
+
+ Io C      03:48     05:46                                            
+ Hr Ang    -02.3     -00.4     
+
+_______________________________
+
+< Year 2016   Month 2   Day 24 >
+
+           Begin      End     
+ Io B      04:05     07:07                                            
+ Hr Ang    -02.0     01.1      
+
+_______________________________
+
+< Year 2016   Month 2   Day 28 >
+
+           Begin      End     
+ Io A      10:20     11:44                                            
+ Hr Ang    04.6      06.0      
+
+_______________________________
+
+< Year 2016   Month 3   Day 1 >
+
+           Begin      End     
+ Io A      02:01     04:32                                            
+ Hr Ang    -03.6     -01.1     
+
+ Io C      05:03     06:27                                            
+ Hr Ang    -00.6     00.8      
+
+_______________________________
+
+< Year 2016   Month 3   Day 2 >
+
+           Begin      End     
+ Io B      05:49     07:49                                            
+ Hr Ang    00.3      02.3      
+
+_______________________________
+
+< Year 2016   Month 3   Day 3 >
+
+           Begin      End     
+ Io A      03:38     04:17                                            
+ Hr Ang    -01.8     -01.2     
+
+_______________________________
+
+< Year 2016   Month 3   Day 6 >
+
+           Begin      End     
+ Io A      11:01     11:13                                            
+ Hr Ang    05.8      06.0      
+
+_______________________________
+
+< Year 2016   Month 3   Day 8 >
+
+           Begin      End     
+ Io A      03:15     05:13                                            
+ Hr Ang    -01.9     00.1      
+
+ Io C      06:48     07:09                                            
+ Hr Ang    01.7      02.1      
+
+_______________________________
+
+< Year 2016   Month 3   Day 9 >
+
+           Begin      End     
+ Io B      07:32     08:31                                            
+ Hr Ang    02.5      03.5      
+
+_______________________________
+
+< Year 2016   Month 3   Day 10 >
+
+           Begin      End     
+ Io A      04:20     06:01                                            
+ Hr Ang    -00.6     01.1      
+
+_______________________________
+
+< Year 2016   Month 3   Day 12 >
+
+           Begin      End     
+ Io B      22:46     23:59                                            
+ Hr Ang    -06.0     -04.8     
+
+_______________________________
+
+< Year 2016   Month 3   Day 13 >
+
+           Begin      End     
+ Io B      00:00     00:06                                            
+ Hr Ang    -04.7     -04.6     
+
+_______________________________
+
+< Year 2016   Month 3   Day 15 >
+
+           Begin      End     
+ Io A      05:00     05:55                                            
+ Hr Ang    00.4      01.3      
+
+_______________________________
+
+< Year 2016   Month 3   Day 17 >
+
+           Begin      End     
+ Io A      05:02     07:32                                            
+ Hr Ang    00.6      03.1      
+
+_______________________________
+
+< Year 2016   Month 3   Day 18 >
+
+           Begin      End     
+ Io A      22:18     23:14                                            
+ Hr Ang    -06.0     -05.1     
+
+ Io C      23:13     23:59                                            
+ Hr Ang    -05.1     -04.3     
+
+_______________________________
+
+< Year 2016   Month 3   Day 19 >
+
+           Begin      End     
+ Io B      23:28     23:59                                            
+ Hr Ang    -04.8     -04.3     
+
+ Io C      00:00     00:23                                            
+ Hr Ang    -04.3     -03.9     
+
+_______________________________
+
+< Year 2016   Month 3   Day 20 >
+
+           Begin      End     
+ Io B      00:00     01:50                                            
+ Hr Ang    -04.2     -02.4     
+
+_______________________________
+
+< Year 2016   Month 3   Day 24 >
+
+           Begin      End     
+ Io A      05:44     08:15                                            
+ Hr Ang    01.8      04.3      
+
+_______________________________
+
+< Year 2016   Month 3   Day 25 >
+
+           Begin      End     
+ Io A      21:48     23:57                                            
+ Hr Ang    -06.0     -03.8     
+
+ Io B      08:29     09:07                                            
+ Hr Ang    04.6      05.3      
+
+ Io C      23:55     23:59                                            
+ Hr Ang    -03.9     -03.8     
+
+_______________________________
+
+< Year 2016   Month 3   Day 26 >
+
+           Begin      End     
+ Io C      00:00     01:52                                            
+ Hr Ang    -03.8     -01.9     
+
+_______________________________
+
+< Year 2016   Month 3   Day 27 >
+
+           Begin      End     
+ Io B      00:10     03:14                                            
+ Hr Ang    -03.5     -00.5     
+
+_______________________________
+
+< Year 2016   Month 3   Day 31 >
+
+           Begin      End     
+ Io A      06:27     08:57                                            
+ Hr Ang    03.0      05.6      
+
+ Io C      08:55     09:23                                            
+ Hr Ang    05.5      06.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 1 >
+
+           Begin      End     
+ Io A      22:08     23:59                                            
+ Hr Ang    -05.2     -03.3     
+
+ Io B      09:11     09:19                                            
+ Hr Ang    05.9      06.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 2 >
+
+           Begin      End     
+ Io A      00:00     00:39                                            
+ Hr Ang    -03.3     -02.6     
+
+ Io C      00:49     02:35                                            
+ Hr Ang    -02.5     -00.7     
+
+_______________________________
+
+< Year 2016   Month 4   Day 3 >
+
+           Begin      End     
+ Io A      23:46     23:59                                            
+ Hr Ang    -03.4     -03.2     
+
+ Io B      01:40     03:56                                            
+ Hr Ang    -01.5     00.7      
+
+_______________________________
+
+< Year 2016   Month 4   Day 4 >
+
+           Begin      End     
+ Io A      00:00     00:05                                            
+ Hr Ang    -03.1     -03.1     
+
+_______________________________
+
+< Year 2016   Month 4   Day 7 >
+
+           Begin      End     
+ Io A      07:09     08:53                                            
+ Hr Ang    04.3      06.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 8 >
+
+           Begin      End     
+ Io A      23:06     23:59                                            
+ Hr Ang    -03.7     -02.8     
+
+_______________________________
+
+< Year 2016   Month 4   Day 9 >
+
+           Begin      End     
+ Io A      00:00     01:22                                            
+ Hr Ang    -02.8     -01.4     
+
+ Io C      02:36     03:17                                            
+ Hr Ang    -00.2     00.5      
+
+_______________________________
+
+< Year 2016   Month 4   Day 10 >
+
+           Begin      End     
+ Io B      03:26     04:39                                            
+ Hr Ang    00.7      02.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 11 >
+
+           Begin      End     
+ Io A      00:28     01:51                                            
+ Hr Ang    -02.2     -00.8     
+
+_______________________________
+
+< Year 2016   Month 4   Day 14 >
+
+           Begin      End     
+ Io A      07:52     08:23                                            
+ Hr Ang    05.5      06.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 16 >
+
+           Begin      End     
+ Io A      00:51     02:05                                            
+ Hr Ang    -01.4     -00.2     
+
+_______________________________
+
+< Year 2016   Month 4   Day 17 >
+
+           Begin      End     
+ Io B      05:12     05:22                                            
+ Hr Ang    03.0      03.2      
+
+_______________________________
+
+< Year 2016   Month 4   Day 18 >
+
+           Begin      End     
+ Io A      01:12     03:38                                            
+ Hr Ang    -00.9     01.5      
+
+_______________________________
+
+< Year 2016   Month 4   Day 20 >
+
+           Begin      End     
+ Io B      20:34     21:40                                            
+ Hr Ang    -05.4     -04.3     
+
+_______________________________
+
+< Year 2016   Month 4   Day 23 >
+
+           Begin      End     
+ Io A      02:39     02:48                                            
+ Hr Ang    00.9      01.0      
+
+_______________________________
+
+< Year 2016   Month 4   Day 25 >
+
+           Begin      End     
+ Io A      01:55     04:26                                            
+ Hr Ang    00.3      02.8      
+
+_______________________________
+
+< Year 2016   Month 4   Day 26 >
+
+           Begin      End     
+ Io B      04:40     05:08                                            
+ Hr Ang    03.1      03.6      
+
+ Io C      20:40     22:03                                            
+ Hr Ang    -04.9     -03.5     
+
+_______________________________
+
+< Year 2016   Month 4   Day 27 >
+
+           Begin      End     
+ Io B      20:41     23:25                                            
+ Hr Ang    -04.8     -02.0     
+
+_______________________________
+
+< Year 2016   Month 5   Day 2 >
+
+           Begin      End     
+ Io A      02:39     05:09                                            
+ Hr Ang    01.5      04.0      
+
+ Io C      05:08     05:30                                            
+ Hr Ang    04.0      04.3      
+
+_______________________________
+
+< Year 2016   Month 5   Day 3 >
+
+           Begin      End     
+ Io A      20:46     20:51                                            
+ Hr Ang    -04.3     -04.2     
+
+ Io B      05:23     06:57                                            
+ Hr Ang    04.3      05.9      
+
+ Io C      20:59     22:47                                            
+ Hr Ang    -04.1     -02.3     
+
+_______________________________
+
+< Year 2016   Month 5   Day 4 >
+
+           Begin      End     
+ Io B      21:39     23:59                                            
+ Hr Ang    -03.3     -01.0     
+
+_______________________________
+
+< Year 2016   Month 5   Day 5 >
+
+           Begin      End     
+ Io B      00:00     00:09                                            
+ Hr Ang    -01.0     -00.8     
+
+_______________________________
+
+< Year 2016   Month 5   Day 9 >
+
+           Begin      End     
+ Io A      03:23     05:54                                            
+ Hr Ang    02.7      05.2      
+
+ Io C      05:52     06:41                                            
+ Hr Ang    05.2      06.0      
+
+_______________________________
+
+< Year 2016   Month 5   Day 10 >
+
+           Begin      End     
+ Io A      20:52     21:36                                            
+ Hr Ang    -03.7     -03.0     
+
+ Io B      06:08     06:37                                            
+ Hr Ang    05.5      06.0      
+
+ Io C      22:50     23:31                                            
+ Hr Ang    -01.7     -01.1     
+
+_______________________________
+
+< Year 2016   Month 5   Day 11 >
+
+           Begin      End     
+ Io B      23:30     23:59                                            
+ Hr Ang    -01.0     -00.5     
+
+_______________________________
+
+< Year 2016   Month 5   Day 12 >
+
+           Begin      End     
+ Io A      20:53     22:08                                            
+ Hr Ang    -03.6     -02.3     
+
+ Io B      00:00     00:53                                            
+ Hr Ang    -00.5     00.4      
+
+_______________________________
+
+< Year 2016   Month 5   Day 16 >
+
+           Begin      End     
+ Io A      04:07     06:13                                            
+ Hr Ang    03.9      06.0      
+
+_______________________________
+
+< Year 2016   Month 5   Day 17 >
+
+           Begin      End     
+ Io A      21:09     22:20                                            
+ Hr Ang    -03.0     -01.8     
+
+_______________________________
+
+< Year 2016   Month 5   Day 19 >
+
+           Begin      End     
+ Io A      21:27     23:58                                            
+ Hr Ang    -02.5     00.0      
+
+ Io B      01:28     01:38                                            
+ Hr Ang    01.4      01.6      
+
+_______________________________
+
+< Year 2016   Month 5   Day 23 >
+
+           Begin      End     
+ Io A      04:52     05:46                                            
+ Hr Ang    05.1      06.0      
+
+_______________________________
+
+< Year 2016   Month 5   Day 24 >
+
+           Begin      End     
+ Io A      23:01     23:05                                            
+ Hr Ang    -00.7     -00.6     
+
+_______________________________
+
+< Year 2016   Month 5   Day 26 >
+
+           Begin      End     
+ Io A      22:12     23:59                                            
+ Hr Ang    -01.3     00.4      
+
+_______________________________
+
+< Year 2016   Month 5   Day 27 >
+
+           Begin      End     
+ Io A      00:00     00:43                                            
+ Hr Ang    00.5      01.2      
+
+_______________________________
+
+< Year 2016   Month 5   Day 28 >
+
+           Begin      End     
+ Io B      00:57     01:28                                            
+ Hr Ang    01.5      02.0      
+
+_______________________________
+
+< Year 2016   Month 6   Day 2 >
+
+           Begin      End     
+ Io A      22:57     23:59                                            
+ Hr Ang    -00.2     00.9      
+
+_______________________________
+
+< Year 2016   Month 6   Day 3 >
+
+           Begin      End     
+ Io A      00:00     01:28                                            
+ Hr Ang    00.9      02.4      
+
+ Io C      01:26     01:55                                            
+ Hr Ang    02.3      02.8      
+
+_______________________________
+
+< Year 2016   Month 6   Day 4 >
+
+           Begin      End     
+ Io B      01:42     03:23                                            
+ Hr Ang    02.7      04.3      
+
+_______________________________
+
+< Year 2016   Month 6   Day 9 >
+
+           Begin      End     
+ Io A      23:42     23:59                                            
+ Hr Ang    01.0      01.3      
+
+_______________________________
+
+< Year 2016   Month 6   Day 10 >
+
+           Begin      End     
+ Io A      00:00     02:13                                            
+ Hr Ang    01.3      03.5      
+
+ Io C      02:11     03:50                                            
+ Hr Ang    03.5      05.2      
+
+_______________________________
+
+< Year 2016   Month 6   Day 11 >
+
+           Begin      End     
+ Io B      02:27     04:36                                            
+ Hr Ang    03.8      06.0      
+
+_______________________________
+
+< Year 2016   Month 6   Day 12 >
+
+           Begin      End     
+ Io B      21:12     21:13                                            
+ Hr Ang    -01.3     -01.3     
+
+_______________________________
+
+< Year 2016   Month 6   Day 17 >
+
+           Begin      End     
+ Io A      00:28     02:59                                            
+ Hr Ang    02.2      04.7      
+
+ Io C      02:57     04:15                                            
+ Hr Ang    04.7      06.0      
+
+_______________________________
+
+< Year 2016   Month 6   Day 18 >
+
+           Begin      End     
+ Io B      03:36     04:11                                            
+ Hr Ang    05.4      06.0      
+
+_______________________________
+
+< Year 2016   Month 6   Day 24 >
+
+           Begin      End     
+ Io A      01:14     03:44                                            
+ Hr Ang    03.4      05.9      
+
+_______________________________
+
+< Year 2016   Month 6   Day 26 >
+
+           Begin      End     
+ Io A      02:52     03:43                                            
+ Hr Ang    05.1      06.0      
+
+_______________________________
+
+< Year 2016   Month 6   Day 28 >
+
+           Begin      End     
+ Io B      21:19     22:06                                            
+ Hr Ang    -00.2     00.5      
+
+_______________________________
+
+< Year 2016   Month 7   Day 1 >
+
+           Begin      End     
+ Io A      03:05     03:25                                            
+ Hr Ang    05.6      06.0      
+
+_______________________________
+
+< Year 2016   Month 7   Day 4 >
+
+           Begin      End     
+ Io A      21:17     21:50                                            
+ Hr Ang    00.1      00.6      
+
+ Io C      21:49     22:44                                            
+ Hr Ang    00.6      01.5      
+
+_______________________________
+
+< Year 2016   Month 7   Day 5 >
+
+           Begin      End     
+ Io B      22:05     23:59                                            
+ Hr Ang    00.9      02.8      
+
+_______________________________
+
+< Year 2016   Month 7   Day 6 >
+
+           Begin      End     
+ Io B      00:00     00:06                                            
+ Hr Ang    02.8      02.9      
+
+_______________________________
+
+< Year 2016   Month 7   Day 11 >
+
+           Begin      End     
+ Io A      21:16     22:36                                            
+ Hr Ang    00.5      01.8      
+
+ Io C      22:35     23:59                                            
+ Hr Ang    01.8      03.2      
+
+_______________________________
+
+< Year 2016   Month 7   Day 12 >
+
+           Begin      End     
+ Io B      22:51     23:59                                            
+ Hr Ang    02.1      03.2      
+
+ Io C      00:00     00:33                                            
+ Hr Ang    03.2      03.7      
+
+_______________________________
+
+< Year 2016   Month 7   Day 13 >
+
+           Begin      End     
+ Io B      00:00     01:55                                            
+ Hr Ang    03.2      05.2      
+
+_______________________________
+
+< Year 2016   Month 7   Day 18 >
+
+           Begin      End     
+ Io A      21:14     23:22                                            
+ Hr Ang    00.8      03.0      
+
+ Io C      23:38     23:59                                            
+ Hr Ang    03.2      03.6      
+
+_______________________________
+
+< Year 2016   Month 7   Day 19 >
+
+           Begin      End     
+ Io C      00:00     01:19                                            
+ Hr Ang    03.6      04.9      
+
+_______________________________
+
+< Year 2016   Month 7   Day 20 >
+
+           Begin      End     
+ Io A      22:30     22:57                                            
+ Hr Ang    02.2      02.6      
+
+ Io B      00:25     02:21                                            
+ Hr Ang    04.0      06.0      
+
+_______________________________
+
+< Year 2016   Month 7   Day 25 >
+
+           Begin      End     
+ Io A      22:06     23:59                                            
+ Hr Ang    02.1      04.0      
+
+_______________________________
+
+< Year 2016   Month 7   Day 26 >
+
+           Begin      End     
+ Io A      00:00     00:09                                            
+ Hr Ang    04.0      04.1      
+
+ Io C      01:34     02:01                                            
+ Hr Ang    05.5      06.0      
+
+_______________________________
+
+< Year 2016   Month 7   Day 27 >
+
+           Begin      End     
+ Io A      23:16     23:59                                            
+ Hr Ang    03.3      04.1      
+
+_______________________________
+
+< Year 2016   Month 7   Day 28 >
+
+           Begin      End     
+ Io A      00:00     00:56                                            
+ Hr Ang    04.1      05.0      
+
+_______________________________
+
+< Year 2016   Month 8   Day 2 >
+
+           Begin      End     
+ Io A      00:01     00:55                                            
+ Hr Ang    04.4      05.3      
+
+_______________________________
+
+< Year 2016   Month 8   Day 4 >
+
+           Begin      End     
+ Io A      00:03     01:32                                            
+ Hr Ang    04.5      06.0      
+
+_______________________________
+
+< Year 2016   Month 8   Day 6 >
+
+           Begin      End     
+ Io B      21:01     21:04                                            
+ Hr Ang    01.6      01.7      
+
+_______________________________
+
+< Year 2016   Month 8   Day 11 >
+
+           Begin      End     
+ Io A      00:49     01:09                                            
+ Hr Ang    05.7      06.0      
+
+_______________________________
+
+< Year 2016   Month 8   Day 12 >
+
+           Begin      End     
+ Io C      20:55     20:58                                            
+ Hr Ang    01.9      01.9      
+
+_______________________________
+
+< Year 2016   Month 8   Day 13 >
+
+           Begin      End     
+ Io B      20:54     22:20                                            
+ Hr Ang    01.9      03.3      
+
+_______________________________
+
+< Year 2016   Month 8   Day 19 >
+
+           Begin      End     
+ Io C      20:47     21:44                                            
+ Hr Ang    02.1      03.1      
+
+_______________________________
+
+< Year 2016   Month 8   Day 20 >
+
+           Begin      End     
+ Io B      21:24     23:06                                            
+ Hr Ang    02.8      04.5      
+
+_______________________________
+
+< Year 2016   Month 8   Day 23 >
+
+           Begin      End     
+ Io A      12:29     12:47                                            
+ Hr Ang    -06.0     -05.7     
+
+_______________________________
+
+< Year 2016   Month 8   Day 27 >
+
+           Begin      End     
+ Io B      23:24     23:52                                            
+ Hr Ang    05.2      05.6      
+
+_______________________________
+
+< Year 2016   Month 8   Day 28 >
+
+           Begin      End     
+ Io A      20:35     21:56                                            
+ Hr Ang    02.4      03.7      
+
+_______________________________
+
+< Year 2016   Month 8   Day 30 >
+
+           Begin      End     
+ Io A      12:06     12:53                                            
+ Hr Ang    -06.0     -05.2     
+
+_______________________________
+
+< Year 2016   Month 9   Day 2 >
+
+           Begin      End     
+ Io A      21:07     21:20                                            
+ Hr Ang    03.2      03.4      
+
+_______________________________
+
+< Year 2016   Month 9   Day 4 >
+
+           Begin      End     
+ Io A      20:28     22:59                                            
+ Hr Ang    02.6      05.2      
+
+_______________________________
+
+< Year 2016   Month 9   Day 5 >
+
+           Begin      End     
+ Io B      23:13     23:37                                            
+ Hr Ang    05.4      05.9      
+
+_______________________________
+
+< Year 2016   Month 9   Day 6 >
+
+           Begin      End     
+ Io A      12:11     13:00                                            
+ Hr Ang    -05.6     -04.7     
+
+_______________________________
+
+< Year 2016   Month 9   Day 11 >
+
+           Begin      End     
+ Io A      21:14     23:27                                            
+ Hr Ang    03.8      06.0      
+
+_______________________________
+
+< Year 2016   Month 9   Day 13 >
+
+           Begin      End     
+ Io A      12:57     13:08                                            
+ Hr Ang    -04.4     -04.2     
+
+_______________________________
+
+< Year 2016   Month 9   Day 18 >
+
+           Begin      End     
+ Io A      22:00     23:04                                            
+ Hr Ang    04.9      06.0      
+
+_______________________________
+
+< Year 2016   Month 9   Day 25 >
+
+           Begin      End     
+ Io B      10:45     11:10                                            
+ Hr Ang    -06.0     -05.6     
+
+_______________________________
+
+< Year 2016   Month 10   Day 1 >
+
+           Begin      End     
+ Io C      10:28     11:44                                            
+ Hr Ang    -06.0     -04.7     
+
+_______________________________
+
+< Year 2016   Month 10   Day 2 >
+
+           Begin      End     
+ Io B      10:35     13:11                                            
+ Hr Ang    -05.8     -03.2     
+
+_______________________________
+
+< Year 2016   Month 10   Day 6 >
+
+           Begin      End     
+ Io A      19:20     19:23                                            
+ Hr Ang    03.2      03.2      
+
+_______________________________
+
+< Year 2016   Month 10   Day 7 >
+
+           Begin      End     
+ Io B      19:38     20:43                                            
+ Hr Ang    03.5      04.6      
+
+_______________________________
+
+< Year 2016   Month 10   Day 8 >
+
+           Begin      End     
+ Io A      10:08     11:06                                            
+ Hr Ang    -05.9     -05.0     
+
+ Io C      11:04     13:02                                            
+ Hr Ang    -05.0     -03.0     
+
+_______________________________
+
+< Year 2016   Month 10   Day 9 >
+
+           Begin      End     
+ Io B      11:33     13:45                                            
+ Hr Ang    -04.5     -02.3     
+
+_______________________________
+
+< Year 2016   Month 10   Day 13 >
+
+           Begin      End     
+ Io A      19:03     20:09                                            
+ Hr Ang    03.3      04.4      
+
+ Io C      20:07     21:15                                            
+ Hr Ang    04.3      05.5      
+
+_______________________________
+
+< Year 2016   Month 10   Day 14 >
+
+           Begin      End     
+ Io B      20:23     21:37                                            
+ Hr Ang    04.7      05.9      
+
+_______________________________
+
+< Year 2016   Month 10   Day 15 >
+
+           Begin      End     
+ Io A      09:48     11:52                                            
+ Hr Ang    -05.9     -03.8     
+
+ Io C      12:41     13:48                                            
+ Hr Ang    -03.0     -01.9     
+
+_______________________________
+
+< Year 2016   Month 10   Day 16 >
+
+           Begin      End     
+ Io B      13:34     13:59                                            
+ Hr Ang    -02.1     -01.7     
+
+_______________________________
+
+< Year 2016   Month 10   Day 17 >
+
+           Begin      End     
+ Io A      10:59     12:04                                            
+ Hr Ang    -04.6     -03.5     
+
+_______________________________
+
+< Year 2016   Month 10   Day 20 >
+
+           Begin      End     
+ Io A      18:45     20:55                                            
+ Hr Ang    03.3      05.5      
+
+ Io C      20:53     21:17                                            
+ Hr Ang    05.5      05.9      
+
+_______________________________
+
+< Year 2016   Month 10   Day 21 >
+
+           Begin      End     
+ Io B      21:09     21:13                                            
+ Hr Ang    05.8      05.9      
+
+_______________________________
+
+< Year 2016   Month 10   Day 22 >
+
+           Begin      End     
+ Io A      11:09     12:37                                            
+ Hr Ang    -04.2     -02.7     
+
+_______________________________
+
+< Year 2016   Month 10   Day 24 >
+
+           Begin      End     
+ Io A      11:45     14:04                                            
+ Hr Ang    -03.5     -01.1     
+
+_______________________________
+
+< Year 2016   Month 10   Day 27 >
+
+           Begin      End     
+ Io A      19:10     20:53                                            
+ Hr Ang    04.1      05.8      
+
+_______________________________
+
+< Year 2016   Month 10   Day 29 >
+
+           Begin      End     
+ Io A      13:09     13:23                                            
+ Hr Ang    -01.8     -01.6     
+
+_______________________________
+
+< Year 2016   Month 10   Day 31 >
+
+           Begin      End     
+ Io A      12:30     14:36                                            
+ Hr Ang    -02.3     -00.2     
+
+_______________________________
+
+< Year 2016   Month 11   Day 3 >
+
+           Begin      End     
+ Io B      08:53     10:01                                            
+ Hr Ang    -05.8     -04.7     
+
+_______________________________
+
+< Year 2016   Month 11   Day 7 >
+
+           Begin      End     
+ Io A      13:16     14:59                                            
+ Hr Ang    -01.2     00.5      
+
+_______________________________
+
+< Year 2016   Month 11   Day 9 >
+
+           Begin      End     
+ Io C      08:35     09:24                                            
+ Hr Ang    -05.8     -05.0     
+
+_______________________________
+
+< Year 2016   Month 11   Day 10 >
+
+           Begin      End     
+ Io B      08:32     10:46                                            
+ Hr Ang    -05.8     -03.6     
+
+_______________________________
+
+< Year 2016   Month 11   Day 14 >
+
+           Begin      End     
+ Io A      14:01     15:28                                            
+ Hr Ang    -00.1     01.4      
+
+ Io C      17:23     18:15                                            
+ Hr Ang    03.3      04.2      
+
+_______________________________
+
+< Year 2016   Month 11   Day 15 >
+
+           Begin      End     
+ Io B      17:18     19:43                                            
+ Hr Ang    03.3      05.7      
+
+_______________________________
+
+< Year 2016   Month 11   Day 16 >
+
+           Begin      End     
+ Io C      09:44     10:09                                            
+ Hr Ang    -04.3     -03.9     
+
+_______________________________
+
+< Year 2016   Month 11   Day 17 >
+
+           Begin      End     
+ Io B      10:31     11:31                                            
+ Hr Ang    -03.4     -02.4     
+
+_______________________________
+
+< Year 2016   Month 11   Day 18 >
+
+           Begin      End     
+ Io A      08:08     09:06                                            
+ Hr Ang    -05.8     -04.8     
+
+_______________________________
+
+< Year 2016   Month 11   Day 21 >
+
+           Begin      End     
+ Io A      14:46     17:16                                            
+ Hr Ang    01.0      03.6      
+
+ Io C      17:14     19:12                                            
+ Hr Ang    03.5      05.5      
+
+_______________________________
+
+< Year 2016   Month 11   Day 22 >
+
+           Begin      End     
+ Io B      18:03     19:23                                            
+ Hr Ang    04.4      05.7      
+
+_______________________________
+
+< Year 2016   Month 11   Day 23 >
+
+           Begin      End     
+ Io A      08:09     08:59     16:23     16:32                        
+ Hr Ang    -05.5     -04.6     02.8      02.9      
+
+_______________________________
+
+< Year 2016   Month 11   Day 25 >
+
+           Begin      End     
+ Io A      08:06     10:36                                            
+ Hr Ang    -05.4     -02.9     
+
+_______________________________
+
+< Year 2016   Month 11   Day 28 >
+
+           Begin      End     
+ Io A      15:36     18:01                                            
+ Hr Ang    02.3      04.7      
+
+_______________________________
+
+< Year 2016   Month 11   Day 30 >
+
+           Begin      End     
+ Io A      17:08     18:30                                            
+ Hr Ang    03.9      05.3      
+
+_______________________________
+
+< Year 2016   Month 12   Day 2 >
+
+           Begin      End     
+ Io A      08:51     11:21                                            
+ Hr Ang    -04.3     -01.8     
+
+_______________________________
+
+< Year 2016   Month 12   Day 3 >
+
+           Begin      End     
+ Io B      11:35     12:35                                            
+ Hr Ang    -01.5     -00.5     
+
+_______________________________
+
+< Year 2016   Month 12   Day 5 >
+
+           Begin      End     
+ Io A      17:34     18:37                                            
+ Hr Ang    04.6      05.7      
+
+_______________________________
+
+< Year 2016   Month 12   Day 7 >
+
+           Begin      End     
+ Io A      17:53     18:30                                            
+ Hr Ang    05.1      05.7      
+
+_______________________________
+
+< Year 2016   Month 12   Day 9 >
+
+           Begin      End     
+ Io A      09:35     12:06                                            
+ Hr Ang    -03.2     -00.6     
+
+ Io C      12:04     13:13                                            
+ Hr Ang    -00.7     00.5      
+
+_______________________________
+
+< Year 2016   Month 12   Day 10 >
+
+           Begin      End     
+ Io B      12:20     14:33                                            
+ Hr Ang    -00.3     01.9      
+
+_______________________________
+
+< Year 2016   Month 12   Day 12 >
+
+           Begin      End     
+ Io B      06:54     07:06                                            
+ Hr Ang    -05.7     -05.5     
+
+_______________________________
+
+< Year 2016   Month 12   Day 16 >
+
+           Begin      End     
+ Io A      10:19     12:50                                            
+ Hr Ang    -02.0     00.5      
+
+ Io C      12:48     14:46                                            
+ Hr Ang    00.5      02.4      
+
+_______________________________
+
+< Year 2016   Month 12   Day 17 >
+
+           Begin      End     
+ Io B      13:04     16:08                                            
+ Hr Ang    00.8      03.9      
+
+_______________________________
+
+< Year 2016   Month 12   Day 19 >
+
+           Begin      End     
+ Io B      07:18     07:50                                            
+ Hr Ang    -04.9     -04.3     
+
+_______________________________
+
+< Year 2016   Month 12   Day 23 >
+
+           Begin      End     
+ Io A      11:03     13:34                                            
+ Hr Ang    -00.9     01.6      
+
+ Io C      14:00     15:30                                            
+ Hr Ang    02.1      03.6      
+
+_______________________________
+
+< Year 2016   Month 12   Day 24 >
+
+           Begin      End     
+ Io B      14:47     16:52                                            
+ Hr Ang    02.9      05.0      
+
+_______________________________
+
+< Year 2016   Month 12   Day 25 >
+
+           Begin      End     
+ Io A      12:41     13:22                                            
+ Hr Ang    00.9      01.5      
+
+_______________________________
+
+< Year 2016   Month 12   Day 27 >
+
+           Begin      End     
+ Io A      06:05     06:54                                            
+ Hr Ang    -05.6     -04.8     
+
+_______________________________
+
+< Year 2016   Month 12   Day 28 >
+
+           Begin      End     
+ Io B      07:08     07:22                                            
+ Hr Ang    -04.5     -04.3     
+
+_______________________________
+
+< Year 2016   Month 12   Day 30 >
+
+           Begin      End     
+ Io A      12:23     14:18                                            
+ Hr Ang    00.8      02.8      
+
+ Io C      15:55     16:14                                            
+ Hr Ang    04.4      04.7      
+
+_______________________________
+
+< Year 2016   Month 12   Day 31 >
+
+           Begin      End     
+ Io B      16:43     17:04                                            
+ Hr Ang    05.3      05.6      
+
+_______________________________
+
+< Year 2017   Month 1   Day 1 >
+
+           Begin      End     
+ Io A      13:25     15:16                                            
+ Hr Ang    02.0      03.9      
+
+_______________________________
+
+< Year 2017   Month 1   Day 3 >
+
+           Begin      End     
+ Io A      05:42     07:37                                            
+ Hr Ang    -05.6     -03.7     
+
+ Io C      07:36     08:01                                            
+ Hr Ang    -03.7     -03.3     
+
+_______________________________
+
+< Year 2017   Month 1   Day 4 >
+
+           Begin      End     
+ Io B      07:52     09:17                                            
+ Hr Ang    -03.4     -02.0     
+
+_______________________________
+
+< Year 2017   Month 1   Day 6 >
+
+           Begin      End     
+ Io A      14:16     15:02                                            
+ Hr Ang    03.2      03.9      
+
+_______________________________
+
+< Year 2017   Month 1   Day 8 >
+
+           Begin      End     
+ Io A      14:08     16:35                                            
+ Hr Ang    03.1      05.6      
+
+_______________________________
+
+< Year 2017   Month 1   Day 10 >
+
+           Begin      End     
+ Io A      05:50     08:21                                            
+ Hr Ang    -05.1     -02.5     
+
+ Io C      08:19     09:55                                            
+ Hr Ang    -02.6     -01.0     
+
+_______________________________
+
+< Year 2017   Month 1   Day 11 >
+
+           Begin      End     
+ Io B      08:35     11:10                                            
+ Hr Ang    -02.2     00.3      
+
+_______________________________
+
+< Year 2017   Month 1   Day 15 >
+
+           Begin      End     
+ Io A      14:52     16:09                                            
+ Hr Ang    04.3      05.6      
+
+_______________________________
+
+< Year 2017   Month 1   Day 17 >
+
+           Begin      End     
+ Io A      06:34     09:04                                            
+ Hr Ang    -03.9     -01.4     
+
+ Io C      09:03     11:00                                            
+ Hr Ang    -01.4     00.5      
+
+_______________________________
+
+< Year 2017   Month 1   Day 18 >
+
+           Begin      End     
+ Io B      09:24     12:22                                            
+ Hr Ang    -01.0     02.0      
+
+_______________________________
+
+< Year 2017   Month 1   Day 22 >
+
+           Begin      End     
+ Io A      15:35     15:43                                            
+ Hr Ang    05.4      05.6      
+
+_______________________________
+
+< Year 2017   Month 1   Day 24 >
+
+           Begin      End     
+ Io A      07:17     09:47                                            
+ Hr Ang    -02.8     -00.2     
+
+ Io C      10:35     11:43                                            
+ Hr Ang    00.6      01.7      
+
+_______________________________
+
+< Year 2017   Month 1   Day 25 >
+
+           Begin      End     
+ Io B      11:16     13:05                                            
+ Hr Ang    01.3      03.1      
+
+_______________________________
+
+< Year 2017   Month 1   Day 26 >
+
+           Begin      End     
+ Io A      08:54     09:54                                            
+ Hr Ang    -01.0     00.0      
+
+_______________________________
+
+< Year 2017   Month 1   Day 31 >
+
+           Begin      End     
+ Io A      08:53     10:30                                            
+ Hr Ang    -00.7     00.9      
+
+ Io C      12:25     12:26                                            
+ Hr Ang    02.8      02.9      
+
+_______________________________
+
+< Year 2017   Month 2   Day 1 >
+
+           Begin      End     
+ Io B      13:07     13:48                                            
+ Hr Ang    03.6      04.3      
+
+_______________________________
+
+< Year 2017   Month 2   Day 2 >
+
+           Begin      End     
+ Io A      09:37     11:44                                            
+ Hr Ang    00.2      02.3      
+
+_______________________________
+
+< Year 2017   Month 2   Day 4 >
+
+           Begin      End     
+ Io A      03:45     03:49                                            
+ Hr Ang    -05.6     -05.5     
+
+ Io C      03:48     04:25                                            
+ Hr Ang    -05.5     -04.9     
+
+_______________________________
+
+< Year 2017   Month 2   Day 5 >
+
+           Begin      End     
+ Io B      04:03     05:42                                            
+ Hr Ang    -05.2     -03.6     
+
+_______________________________
+
+< Year 2017   Month 2   Day 7 >
+
+           Begin      End     
+ Io A      10:42     11:13                                            
+ Hr Ang    01.6      02.1      
+
+_______________________________
+
+< Year 2017   Month 2   Day 9 >
+
+           Begin      End     
+ Io A      10:20     12:50                                            
+ Hr Ang    01.3      03.8      
+
+_______________________________
+
+< Year 2017   Month 2   Day 11 >
+
+           Begin      End     
+ Io A      03:18     04:32                                            
+ Hr Ang    -05.6     -04.3     
+
+ Io C      04:30     06:14                                            
+ Hr Ang    -04.4     -02.6     
+
+_______________________________
+
+< Year 2017   Month 2   Day 12 >
+
+           Begin      End     
+ Io B      04:46     07:31                                            
+ Hr Ang    -04.0     -01.3     
+
+_______________________________
+
+< Year 2017   Month 2   Day 16 >
+
+           Begin      End     
+ Io A      11:02     13:32                                            
+ Hr Ang    02.5      05.0      
+
+ Io C      13:31     13:36                                            
+ Hr Ang    05.0      05.1      
+
+_______________________________
+
+< Year 2017   Month 2   Day 17 >
+
+           Begin      End     
+ Io B      13:46     14:02                                            
+ Hr Ang    05.3      05.6      
+
+_______________________________
+
+< Year 2017   Month 2   Day 18 >
+
+           Begin      End     
+ Io A      02:50     05:14                                            
+ Hr Ang    -05.6     -03.2     
+
+ Io C      05:12     07:10                                            
+ Hr Ang    -03.2     -01.2     
+
+_______________________________
+
+< Year 2017   Month 2   Day 19 >
+
+           Begin      End     
+ Io B      05:39     08:32                                            
+ Hr Ang    -02.7     00.2      
+
+_______________________________
+
+< Year 2017   Month 2   Day 23 >
+
+           Begin      End     
+ Io A      11:44     13:38                                            
+ Hr Ang    03.7      05.6      
+
+_______________________________
+
+< Year 2017   Month 2   Day 25 >
+
+           Begin      End     
+ Io A      03:26     05:56                                            
+ Hr Ang    -04.5     -02.0     
+
+ Io C      06:46     07:52                                            
+ Hr Ang    -01.2     -00.1     
+
+_______________________________
+
+< Year 2017   Month 2   Day 26 >
+
+           Begin      End     
+ Io B      07:26     09:14                                            
+ Hr Ang    -00.4     01.4      
+
+_______________________________
+
+< Year 2017   Month 2   Day 27 >
+
+           Begin      End     
+ Io A      05:03     06:01                                            
+ Hr Ang    -02.7     -01.8     
+
+_______________________________
+
+< Year 2017   Month 3   Day 2 >
+
+           Begin      End     
+ Io A      12:26     13:09                                            
+ Hr Ang    04.9      05.6      
+
+_______________________________
+
+< Year 2017   Month 3   Day 4 >
+
+           Begin      End     
+ Io A      05:00     06:38                                            
+ Hr Ang    -02.4     -00.8     
+
+ Io C      08:32     08:34                                            
+ Hr Ang    01.1      01.1      
+
+_______________________________
+
+< Year 2017   Month 3   Day 5 >
+
+           Begin      End     
+ Io B      09:11     09:56                                            
+ Hr Ang    01.8      02.6      
+
+_______________________________
+
+< Year 2017   Month 3   Day 6 >
+
+           Begin      End     
+ Io A      05:45     07:48                                            
+ Hr Ang    -01.6     00.5      
+
+_______________________________
+
+< Year 2017   Month 3   Day 9 >
+
+           Begin      End     
+ Io B      01:29     01:48                                            
+ Hr Ang    -05.6     -05.3     
+
+_______________________________
+
+< Year 2017   Month 3   Day 11 >
+
+           Begin      End     
+ Io A      06:45     07:20                                            
+ Hr Ang    -00.2     00.4      
+
+_______________________________
+
+< Year 2017   Month 3   Day 13 >
+
+           Begin      End     
+ Io A      06:27     08:57                                            
+ Hr Ang    -00.4     02.2      
+
+_______________________________
+
+< Year 2017   Month 3   Day 15 >
+
+           Begin      End     
+ Io C      01:03     02:11                                            
+ Hr Ang    -05.6     -04.5     
+
+_______________________________
+
+< Year 2017   Month 3   Day 16 >
+
+           Begin      End     
+ Io B      00:58     03:32                                            
+ Hr Ang    -05.6     -03.1     
+
+_______________________________
+
+< Year 2017   Month 3   Day 20 >
+
+           Begin      End     
+ Io A      07:08     09:39                                            
+ Hr Ang    00.8      03.4      
+
+_______________________________
+
+< Year 2017   Month 3   Day 21 >
+
+           Begin      End     
+ Io B      09:53     10:47                                            
+ Hr Ang    03.7      04.6      
+
+_______________________________
+
+< Year 2017   Month 3   Day 22 >
+
+           Begin      End     
+ Io A      00:31     01:20                                            
+ Hr Ang    -05.7     -04.8     
+
+ Io C      01:19     03:16                                            
+ Hr Ang    -04.9     -02.9     
+
+_______________________________
+
+< Year 2017   Month 3   Day 23 >
+
+           Begin      End     
+ Io B      01:37     04:38                                            
+ Hr Ang    -04.5     -01.5     
+
+_______________________________
+
+< Year 2017   Month 3   Day 27 >
+
+           Begin      End     
+ Io A      07:50     10:21                                            
+ Hr Ang    02.0      04.6      
+
+ Io C      10:19     11:16                                            
+ Hr Ang    04.5      05.5      
+
+_______________________________
+
+< Year 2017   Month 3   Day 28 >
+
+           Begin      End     
+ Io B      10:35     11:21                                            
+ Hr Ang    04.9      05.6      
+
+_______________________________
+
+< Year 2017   Month 3   Day 29 >
+
+           Begin      End     
+ Io A      00:00     02:02                                            
+ Hr Ang    -05.7     -03.6     
+
+ Io C      02:37     03:58                                            
+ Hr Ang    -03.0     -01.7     
+
+_______________________________
+
+< Year 2017   Month 3   Day 30 >
+
+           Begin      End     
+ Io B      03:20     05:20                                            
+ Hr Ang    -02.2     -00.2     
+
+_______________________________
+
+< Year 2017   Month 3   Day 31 >
+
+           Begin      End     
+ Io A      01:09     01:50                                            
+ Hr Ang    -04.4     -03.7     
+
+_______________________________
+
+< Year 2017   Month 4   Day 3 >
+
+           Begin      End     
+ Io A      08:32     10:56                                            
+ Hr Ang    03.3      05.7      
+
+_______________________________
+
+< Year 2017   Month 4   Day 5 >
+
+           Begin      End     
+ Io A      00:49     02:44                                            
+ Hr Ang    -04.3     -02.4     
+
+ Io C      04:21     04:40                                            
+ Hr Ang    -00.8     -00.5     
+
+_______________________________
+
+< Year 2017   Month 4   Day 6 >
+
+           Begin      End     
+ Io B      05:03     06:01                                            
+ Hr Ang    00.0      01.0      
+
+_______________________________
+
+< Year 2017   Month 4   Day 7 >
+
+           Begin      End     
+ Io A      01:51     03:34                                            
+ Hr Ang    -03.1     -01.4     
+
+_______________________________
+
+< Year 2017   Month 4   Day 10 >
+
+           Begin      End     
+ Io A      09:14     10:26                                            
+ Hr Ang    04.5      05.7      
+
+_______________________________
+
+< Year 2017   Month 4   Day 12 >
+
+           Begin      End     
+ Io A      02:33     03:26                                            
+ Hr Ang    -02.1     -01.2     
+
+_______________________________
+
+< Year 2017   Month 4   Day 14 >
+
+           Begin      End     
+ Io A      02:33     05:03                                            
+ Hr Ang    -01.9     00.6      
+
+_______________________________
+
+< Year 2017   Month 4   Day 16 >
+
+           Begin      End     
+ Io B      22:34     23:17                                            
+ Hr Ang    -05.7     -05.0     
+
+_______________________________
+
+< Year 2017   Month 4   Day 21 >
+
+           Begin      End     
+ Io A      03:15     05:45                                            
+ Hr Ang    -00.7     01.8      
+
+_______________________________
+
+< Year 2017   Month 4   Day 22 >
+
+           Begin      End     
+ Io B      05:59     06:38                                            
+ Hr Ang    02.1      02.8      
+
+ Io C      22:06     23:23                                            
+ Hr Ang    -05.7     -04.5     
+
+_______________________________
+
+< Year 2017   Month 4   Day 23 >
+
+           Begin      End     
+ Io B      22:02     23:59                                            
+ Hr Ang    -05.7     -03.8     
+
+_______________________________
+
+< Year 2017   Month 4   Day 24 >
+
+           Begin      End     
+ Io B      00:00     00:44                                            
+ Hr Ang    -03.8     -03.0     
+
+_______________________________
+
+< Year 2017   Month 4   Day 28 >
+
+           Begin      End     
+ Io A      03:57     06:28                                            
+ Hr Ang    00.5      03.0      
+
+ Io C      06:26     07:03                                            
+ Hr Ang    03.0      03.6      
+
+_______________________________
+
+< Year 2017   Month 4   Day 29 >
+
+           Begin      End     
+ Io A      21:35     22:09                                            
+ Hr Ang    -05.7     -05.2     
+
+ Io B      06:41     08:22                                            
+ Hr Ang    03.3      05.0      
+
+ Io C      22:24     23:59                                            
+ Hr Ang    -04.9     -03.3     
+
+_______________________________
+
+< Year 2017   Month 4   Day 30 >
+
+           Begin      End     
+ Io B      23:08     23:59                                            
+ Hr Ang    -04.1     -03.3     
+
+ Io C      00:00     00:05                                            
+ Hr Ang    -03.3     -03.2     
+
+_______________________________
+
+< Year 2017   Month 5   Day 1 >
+
+           Begin      End     
+ Io A      21:26     21:43                                            
+ Hr Ang    -05.7     -05.5     
+
+ Io B      00:00     01:27                                            
+ Hr Ang    -03.2     -01.8     
+
+_______________________________
+
+< Year 2017   Month 5   Day 5 >
+
+           Begin      End     
+ Io A      04:40     07:10                                            
+ Hr Ang    01.7      04.2      
+
+ Io C      07:08     08:40                                            
+ Hr Ang    04.2      05.7      
+
+_______________________________
+
+< Year 2017   Month 5   Day 6 >
+
+           Begin      End     
+ Io A      21:04     22:52                                            
+ Hr Ang    -05.8     -04.0     
+
+ Io B      07:24     08:36                                            
+ Hr Ang    04.5      05.7      
+
+_______________________________
+
+< Year 2017   Month 5   Day 7 >
+
+           Begin      End     
+ Io C      00:08     00:48                                            
+ Hr Ang    -02.7     -02.0     
+
+_______________________________
+
+< Year 2017   Month 5   Day 8 >
+
+           Begin      End     
+ Io A      21:59     23:28                                            
+ Hr Ang    -04.7     -03.2     
+
+ Io B      00:57     02:09                                            
+ Hr Ang    -01.8     -00.6     
+
+_______________________________
+
+< Year 2017   Month 5   Day 12 >
+
+           Begin      End     
+ Io A      05:22     07:53                                            
+ Hr Ang    02.9      05.5      
+
+ Io C      07:51     08:11                                            
+ Hr Ang    05.4      05.8      
+
+_______________________________
+
+< Year 2017   Month 5   Day 13 >
+
+           Begin      End     
+ Io A      22:23     23:35                                            
+ Hr Ang    -03.9     -02.7     
+
+_______________________________
+
+< Year 2017   Month 5   Day 15 >
+
+           Begin      End     
+ Io A      22:42     23:59                                            
+ Hr Ang    -03.5     -02.2     
+
+ Io B      02:43     02:52                                            
+ Hr Ang    00.5      00.6      
+
+_______________________________
+
+< Year 2017   Month 5   Day 16 >
+
+           Begin      End     
+ Io A      00:00     01:10                                            
+ Hr Ang    -02.2     -01.0     
+
+_______________________________
+
+< Year 2017   Month 5   Day 19 >
+
+           Begin      End     
+ Io A      06:06     07:42                                            
+ Hr Ang    04.2      05.8      
+
+_______________________________
+
+< Year 2017   Month 5   Day 21 >
+
+           Begin      End     
+ Io A      00:11     00:18                                            
+ Hr Ang    -01.6     -01.5     
+
+_______________________________
+
+< Year 2017   Month 5   Day 22 >
+
+           Begin      End     
+ Io A      23:25     23:59                                            
+ Hr Ang    -02.3     -01.7     
+
+_______________________________
+
+< Year 2017   Month 5   Day 23 >
+
+           Begin      End     
+ Io A      00:00     01:56                                            
+ Hr Ang    -01.7     00.3      
+
+_______________________________
+
+< Year 2017   Month 5   Day 24 >
+
+           Begin      End     
+ Io B      02:10     02:39                                            
+ Hr Ang    00.6      01.0      
+
+_______________________________
+
+< Year 2017   Month 5   Day 30 >
+
+           Begin      End     
+ Io A      00:09     02:39                                            
+ Hr Ang    -01.0     01.5      
+
+ Io C      02:38     03:01                                            
+ Hr Ang    01.4      01.8      
+
+_______________________________
+
+< Year 2017   Month 5   Day 31 >
+
+           Begin      End     
+ Io B      02:53     04:27                                            
+ Hr Ang    01.8      03.3      
+
+_______________________________
+
+< Year 2017   Month 6   Day 1 >
+
+           Begin      End     
+ Io B      21:06     21:39                                            
+ Hr Ang    -03.9     -03.4     
+
+_______________________________
+
+< Year 2017   Month 6   Day 6 >
+
+           Begin      End     
+ Io A      00:53     03:23                                            
+ Hr Ang    00.2      02.7      
+
+ Io C      03:22     04:52                                            
+ Hr Ang    02.7      04.2      
+
+_______________________________
+
+< Year 2017   Month 6   Day 7 >
+
+           Begin      End     
+ Io B      03:37     06:17                                            
+ Hr Ang    03.0      05.6      
+
+_______________________________
+
+< Year 2017   Month 6   Day 8 >
+
+           Begin      End     
+ Io B      21:10     22:23                                            
+ Hr Ang    -03.4     -02.1     
+
+_______________________________
+
+< Year 2017   Month 6   Day 13 >
+
+           Begin      End     
+ Io A      01:37     04:07                                            
+ Hr Ang    01.4      03.9      
+
+ Io C      04:06     06:02                                            
+ Hr Ang    03.8      05.8      
+
+_______________________________
+
+< Year 2017   Month 6   Day 14 >
+
+           Begin      End     
+ Io B      04:28     05:58                                            
+ Hr Ang    04.3      05.8      
+
+_______________________________
+
+< Year 2017   Month 6   Day 15 >
+
+           Begin      End     
+ Io B      22:51     23:07                                            
+ Hr Ang    -01.2     -01.0     
+
+_______________________________
+
+< Year 2017   Month 6   Day 16 >
+
+           Begin      End     
+ Io A      21:13     21:27                                            
+ Hr Ang    -02.8     -02.6     
+
+_______________________________
+
+< Year 2017   Month 6   Day 20 >
+
+           Begin      End     
+ Io A      02:21     04:52                                            
+ Hr Ang    02.5      05.1      
+
+ Io C      05:32     05:34                                            
+ Hr Ang    05.7      05.8      
+
+_______________________________
+
+< Year 2017   Month 6   Day 22 >
+
+           Begin      End     
+ Io A      03:59     04:48                                            
+ Hr Ang    04.3      05.1      
+
+_______________________________
+
+< Year 2017   Month 6   Day 23 >
+
+           Begin      End     
+ Io A      21:15     22:12                                            
+ Hr Ang    -02.3     -01.4     
+
+_______________________________
+
+< Year 2017   Month 6   Day 24 >
+
+           Begin      End     
+ Io B      22:26     22:51                                            
+ Hr Ang    -01.1     -00.6     
+
+_______________________________
+
+< Year 2017   Month 6   Day 27 >
+
+           Begin      End     
+ Io A      03:54     05:07                                            
+ Hr Ang    04.5      05.8      
+
+_______________________________
+
+< Year 2017   Month 6   Day 29 >
+
+           Begin      End     
+ Io A      04:44     04:59                                            
+ Hr Ang    05.5      05.8      
+
+_______________________________
+
+< Year 2017   Month 6   Day 30 >
+
+           Begin      End     
+ Io A      21:16     22:57                                            
+ Hr Ang    -01.9     -00.2     
+
+ Io C      22:55     23:29                                            
+ Hr Ang    -00.2     00.4      
+
+_______________________________
+
+< Year 2017   Month 7   Day 1 >
+
+           Begin      End     
+ Io B      23:11     23:59                                            
+ Hr Ang    00.1      00.9      
+
+_______________________________
+
+< Year 2017   Month 7   Day 2 >
+
+           Begin      End     
+ Io B      00:00     00:52                                            
+ Hr Ang    00.9      01.8      
+
+_______________________________
+
+< Year 2017   Month 7   Day 7 >
+
+           Begin      End     
+ Io A      21:16     23:42                                            
+ Hr Ang    -01.4     01.0      
+
+ Io C      23:40     23:59                                            
+ Hr Ang    01.0      01.3      
+
+_______________________________
+
+< Year 2017   Month 7   Day 8 >
+
+           Begin      End     
+ Io B      23:56     23:59                                            
+ Hr Ang    01.3      01.4      
+
+ Io C      00:00     01:18                                            
+ Hr Ang    01.3      02.6      
+
+_______________________________
+
+< Year 2017   Month 7   Day 9 >
+
+           Begin      End     
+ Io B      00:00     02:47                                            
+ Hr Ang    01.4      04.2      
+
+_______________________________
+
+< Year 2017   Month 7   Day 14 >
+
+           Begin      End     
+ Io A      21:57     23:59                                            
+ Hr Ang    -00.3     01.7      
+
+_______________________________
+
+< Year 2017   Month 7   Day 15 >
+
+           Begin      End     
+ Io A      00:00     00:28                                            
+ Hr Ang    01.7      02.2      
+
+ Io C      00:26     02:23                                            
+ Hr Ang    02.2      04.1      
+
+_______________________________
+
+< Year 2017   Month 7   Day 16 >
+
+           Begin      End     
+ Io B      01:03     03:45                                            
+ Hr Ang    02.9      05.6      
+
+_______________________________
+
+< Year 2017   Month 7   Day 21 >
+
+           Begin      End     
+ Io A      22:42     23:59                                            
+ Hr Ang    00.9      02.1      
+
+_______________________________
+
+< Year 2017   Month 7   Day 22 >
+
+           Begin      End     
+ Io A      00:00     01:13                                            
+ Hr Ang    02.2      03.4      
+
+ Io C      02:07     03:09                                            
+ Hr Ang    04.3      05.3      
+
+_______________________________
+
+< Year 2017   Month 7   Day 23 >
+
+           Begin      End     
+ Io B      03:00     03:29                                            
+ Hr Ang    05.2      05.7      
+
+_______________________________
+
+< Year 2017   Month 7   Day 24 >
+
+           Begin      End     
+ Io A      00:21     01:26                                            
+ Hr Ang    02.6      03.7      
+
+_______________________________
+
+< Year 2017   Month 7   Day 29 >
+
+           Begin      End     
+ Io A      00:32     01:59                                            
+ Hr Ang    03.1      04.6      
+
+_______________________________
+
+< Year 2017   Month 7   Day 31 >
+
+           Begin      End     
+ Io A      01:06     03:00                                            
+ Hr Ang    03.8      05.7      
+
+_______________________________
+
+< Year 2017   Month 8   Day 2 >
+
+           Begin      End     
+ Io B      21:05     21:29                                            
+ Hr Ang    -00.1     00.3      
+
+_______________________________
+
+< Year 2017   Month 8   Day 5 >
+
+           Begin      End     
+ Io A      02:30     02:42                                            
+ Hr Ang    05.5      05.7      
+
+_______________________________
+
+< Year 2017   Month 8   Day 7 >
+
+           Begin      End     
+ Io A      01:52     02:35                                            
+ Hr Ang    05.0      05.7      
+
+_______________________________
+
+< Year 2017   Month 8   Day 8 >
+
+           Begin      End     
+ Io C      20:59     22:01                                            
+ Hr Ang    00.2      01.2      
+
+_______________________________
+
+< Year 2017   Month 8   Day 9 >
+
+           Begin      End     
+ Io B      20:58     23:23                                            
+ Hr Ang    00.2      02.6      
+
+_______________________________
+
+< Year 2017   Month 8   Day 15 >
+
+           Begin      End     
+ Io C      21:05     22:47                                            
+ Hr Ang    00.7      02.4      
+
+_______________________________
+
+< Year 2017   Month 8   Day 16 >
+
+           Begin      End     
+ Io B      21:46     23:59                                            
+ Hr Ang    01.4      03.6      
+
+_______________________________
+
+< Year 2017   Month 8   Day 17 >
+
+           Begin      End     
+ Io B      00:00     00:09                                            
+ Hr Ang    03.6      03.8      
+
+_______________________________
+
+< Year 2017   Month 8   Day 22 >
+
+           Begin      End     
+ Io A      20:43     21:37                                            
+ Hr Ang    00.7      01.6      
+
+ Io C      23:04     23:33                                            
+ Hr Ang    03.1      03.5      
+
+_______________________________
+
+< Year 2017   Month 8   Day 23 >
+
+           Begin      End     
+ Io B      23:45     23:59                                            
+ Hr Ang    03.8      04.0      
+
+_______________________________
+
+< Year 2017   Month 8   Day 24 >
+
+           Begin      End     
+ Io A      20:45     22:23                                            
+ Hr Ang    00.8      02.5      
+
+ Io B      00:00     00:56                                            
+ Hr Ang    04.0      05.0      
+
+_______________________________
+
+< Year 2017   Month 8   Day 29 >
+
+           Begin      End     
+ Io A      21:31     22:23                                            
+ Hr Ang    01.9      02.8      
+
+_______________________________
+
+< Year 2017   Month 8   Day 31 >
+
+           Begin      End     
+ Io A      21:31     23:59                                            
+ Hr Ang    02.0      04.5      
+
+_______________________________
+
+< Year 2017   Month 9   Day 1 >
+
+           Begin      End     
+ Io A      00:00     00:02                                            
+ Hr Ang    04.5      04.5      
+
+_______________________________
+
+< Year 2017   Month 9   Day 7 >
+
+           Begin      End     
+ Io A      22:17     23:59                                            
+ Hr Ang    03.1      04.9      
+
+_______________________________
+
+< Year 2017   Month 9   Day 8 >
+
+           Begin      End     
+ Io A      00:00     00:42                                            
+ Hr Ang    04.9      05.6      
+
+_______________________________
+
+< Year 2017   Month 9   Day 14 >
+
+           Begin      End     
+ Io A      23:03     23:59                                            
+ Hr Ang    04.3      05.2      
+
+_______________________________
+
+< Year 2017   Month 9   Day 15 >
+
+           Begin      End     
+ Io A      00:00     00:18                                            
+ Hr Ang    05.2      05.5      
+
+_______________________________
+
+< Year 2017   Month 9   Day 17 >
+
+           Begin      End     
+ Io B      20:01     20:35                                            
+ Hr Ang    01.4      02.0      
+
+_______________________________
+
+< Year 2017   Month 9   Day 21 >
+
+           Begin      End     
+ Io A      23:50     23:53                                            
+ Hr Ang    05.4      05.5      
+
+_______________________________
+
+< Year 2017   Month 9   Day 24 >
+
+           Begin      End     
+ Io B      20:49     21:21                                            
+ Hr Ang    02.6      03.1      
+
+_______________________________
+
+< Year 2017   Month 9   Day 28 >
+
+           Begin      End     
+ Io B      12:34     13:27                                            
+ Hr Ang    -05.5     -04.6     
+
+_______________________________
+
+< Year 2017   Month 10   Day 2 >
+
+           Begin      End     
+ Io A      19:30     20:27                                            
+ Hr Ang    01.7      02.6      
+
+_______________________________
+
+< Year 2017   Month 10   Day 3 >
+
+           Begin      End     
+ Io B      20:42     21:02                                            
+ Hr Ang    02.9      03.3      
+
+_______________________________
+
+< Year 2017   Month 10   Day 4 >
+
+           Begin      End     
+ Io C      12:16     13:36                                            
+ Hr Ang    -05.5     -04.1     
+
+_______________________________
+
+< Year 2017   Month 10   Day 5 >
+
+           Begin      End     
+ Io B      12:24     13:38                                            
+ Hr Ang    -05.3     -04.0     
+
+_______________________________
+
+< Year 2017   Month 10   Day 9 >
+
+           Begin      End     
+ Io A      19:13     21:13                                            
+ Hr Ang    01.8      03.8      
+
+ Io C      21:12     21:39                                            
+ Hr Ang    03.8      04.2      
+
+_______________________________
+
+< Year 2017   Month 10   Day 10 >
+
+           Begin      End     
+ Io B      21:28     22:48                                            
+ Hr Ang    04.1      05.4      
+
+_______________________________
+
+< Year 2017   Month 10   Day 11 >
+
+           Begin      End     
+ Io A      11:56     12:56                                            
+ Hr Ang    -05.4     -04.4     
+
+ Io C      13:03     13:49                                            
+ Hr Ang    -04.3     -03.5     
+
+_______________________________
+
+< Year 2017   Month 10   Day 13 >
+
+           Begin      End     
+ Io A      12:04     12:23                                            
+ Hr Ang    -05.2     -04.9     
+
+_______________________________
+
+< Year 2017   Month 10   Day 16 >
+
+           Begin      End     
+ Io A      19:29     21:59                                            
+ Hr Ang    02.4      04.9      
+
+ Io C      21:58     22:28                                            
+ Hr Ang    04.9      05.4      
+
+_______________________________
+
+< Year 2017   Month 10   Day 17 >
+
+           Begin      End     
+ Io B      22:14     22:25                                            
+ Hr Ang    05.2      05.4      
+
+_______________________________
+
+< Year 2017   Month 10   Day 18 >
+
+           Begin      End     
+ Io A      11:36     13:42                                            
+ Hr Ang    -05.4     -03.3     
+
+_______________________________
+
+< Year 2017   Month 10   Day 20 >
+
+           Begin      End     
+ Io A      12:50     14:07                                            
+ Hr Ang    -04.1     -02.8     
+
+_______________________________
+
+< Year 2017   Month 10   Day 23 >
+
+           Begin      End     
+ Io A      20:15     22:04                                            
+ Hr Ang    03.5      05.4      
+
+_______________________________
+
+< Year 2017   Month 10   Day 25 >
+
+           Begin      End     
+ Io A      13:34     14:19     21:53     21:56                        
+ Hr Ang    -03.1     -02.3     05.3      05.3      
+
+_______________________________
+
+< Year 2017   Month 10   Day 27 >
+
+           Begin      End     
+ Io A      13:36     14:24                                            
+ Hr Ang    -02.9     -02.1     
+
+_______________________________
+
+< Year 2017   Month 10   Day 30 >
+
+           Begin      End     
+ Io A      21:08     21:41                                            
+ Hr Ang    04.8      05.3      
+
+_______________________________
+
+< Year 2017   Month 11   Day 3 >
+
+           Begin      End     
+ Io A      14:22     14:44                                            
+ Hr Ang    -01.8     -01.4     
+
+_______________________________
+
+< Year 2017   Month 11   Day 4 >
+
+           Begin      End     
+ Io B      18:02     18:09                                            
+ Hr Ang    01.9      02.0      
+
+_______________________________
+
+< Year 2017   Month 11   Day 6 >
+
+           Begin      End     
+ Io B      10:42     11:53                                            
+ Hr Ang    -05.3     -04.1     
+
+_______________________________
+
+< Year 2017   Month 11   Day 10 >
+
+           Begin      End     
+ Io A      15:08     15:09                                            
+ Hr Ang    -00.7     -00.7     
+
+ Io C      17:41     18:41                                            
+ Hr Ang    01.9      02.9      
+
+_______________________________
+
+< Year 2017   Month 11   Day 11 >
+
+           Begin      End     
+ Io B      17:52     20:10                                            
+ Hr Ang    02.1      04.4      
+
+_______________________________
+
+< Year 2017   Month 11   Day 12 >
+
+           Begin      End     
+ Io C      10:25     11:16                                            
+ Hr Ang    -05.3     -04.4     
+
+_______________________________
+
+< Year 2017   Month 11   Day 13 >
+
+           Begin      End     
+ Io B      11:01     12:39                                            
+ Hr Ang    -04.6     -03.0     
+
+_______________________________
+
+< Year 2017   Month 11   Day 17 >
+
+           Begin      End     
+ Io A      17:08     18:24                                            
+ Hr Ang    01.7      03.0      
+
+ Io C      18:22     20:19                                            
+ Hr Ang    02.9      04.9      
+
+_______________________________
+
+< Year 2017   Month 11   Day 18 >
+
+           Begin      End     
+ Io B      18:38     20:37                                            
+ Hr Ang    03.3      05.2      
+
+_______________________________
+
+< Year 2017   Month 11   Day 19 >
+
+           Begin      End     
+ Io A      10:05     10:06                                            
+ Hr Ang    -05.3     -05.3     
+
+_______________________________
+
+< Year 2017   Month 11   Day 20 >
+
+           Begin      End     
+ Io B      13:02     13:24                                            
+ Hr Ang    -02.3     -01.9     
+
+_______________________________
+
+< Year 2017   Month 11   Day 21 >
+
+           Begin      End     
+ Io A      10:00     11:29                                            
+ Hr Ang    -05.2     -03.8     
+
+_______________________________
+
+< Year 2017   Month 11   Day 24 >
+
+           Begin      End     
+ Io A      16:39     19:09                                            
+ Hr Ang    01.6      04.1      
+
+ Io C      19:39     20:17                                            
+ Hr Ang    04.6      05.2      
+
+_______________________________
+
+< Year 2017   Month 11   Day 26 >
+
+           Begin      End     
+ Io A      10:36     10:52     18:17     18:58                        
+ Hr Ang    -04.4     -04.1     03.3      04.0      
+
+_______________________________
+
+< Year 2017   Month 11   Day 28 >
+
+           Begin      End     
+ Io A      09:59     12:30                                            
+ Hr Ang    -04.9     -02.4     
+
+_______________________________
+
+< Year 2017   Month 11   Day 29 >
+
+           Begin      End     
+ Io B      12:44     13:10                                            
+ Hr Ang    -02.1     -01.7     
+
+_______________________________
+
+< Year 2017   Month 12   Day 1 >
+
+           Begin      End     
+ Io A      18:08     19:54                                            
+ Hr Ang    03.4      05.2      
+
+_______________________________
+
+< Year 2017   Month 12   Day 3 >
+
+           Begin      End     
+ Io A      19:02     19:47                                            
+ Hr Ang    04.4      05.2      
+
+_______________________________
+
+< Year 2017   Month 12   Day 5 >
+
+           Begin      End     
+ Io A      10:45     13:15                                            
+ Hr Ang    -03.8     -01.3     
+
+ Io C      13:14     13:42                                            
+ Hr Ang    -01.3     -00.8     
+
+_______________________________
+
+< Year 2017   Month 12   Day 6 >
+
+           Begin      End     
+ Io B      13:29     15:11                                            
+ Hr Ang    -01.0     00.7      
+
+_______________________________
+
+< Year 2017   Month 12   Day 12 >
+
+           Begin      End     
+ Io A      11:30     14:00                                            
+ Hr Ang    -02.6     -00.1     
+
+ Io C      13:59     15:42                                            
+ Hr Ang    -00.2     01.6      
+
+_______________________________
+
+< Year 2017   Month 12   Day 13 >
+
+           Begin      End     
+ Io B      14:15     17:11                                            
+ Hr Ang    00.2      03.1      
+
+_______________________________
+
+< Year 2017   Month 12   Day 15 >
+
+           Begin      End     
+ Io B      08:50     09:01                                            
+ Hr Ang    -05.2     -05.0     
+
+_______________________________
+
+< Year 2017   Month 12   Day 19 >
+
+           Begin      End     
+ Io A      12:15     14:45                                            
+ Hr Ang    -01.5     01.0      
+
+ Io C      14:44     16:41                                            
+ Hr Ang    01.0      02.9      
+
+_______________________________
+
+< Year 2017   Month 12   Day 20 >
+
+           Begin      End     
+ Io B      15:30     18:03                                            
+ Hr Ang    01.8      04.3      
+
+_______________________________
+
+< Year 2017   Month 12   Day 21 >
+
+           Begin      End     
+ Io A      13:53     13:58                                            
+ Hr Ang    00.2      00.3      
+
+_______________________________
+
+< Year 2017   Month 12   Day 26 >
+
+           Begin      End     
+ Io A      13:03     15:30                                            
+ Hr Ang    -00.3     02.1      
+
+ Io C      16:35     17:26                                            
+ Hr Ang    03.2      04.0      
+
+_______________________________
+
+< Year 2017   Month 12   Day 27 >
+
+           Begin      End     
+ Io B      17:29     18:26                                            
+ Hr Ang    04.2      05.1      
+
+_______________________________
+
+< Year 2017   Month 12   Day 28 >
+
+           Begin      End     
+ Io A      14:38     15:56                                            
+ Hr Ang    01.3      02.7      
+
+_______________________________
+
+< Year 2017   Month 12   Day 30 >
+
+           Begin      End     
+ Io A      08:05     08:50                                            
+ Hr Ang    -05.1     -04.4     
+
+_______________________________
+
+< Year 2017   Month 12   Day 31 >
+
+           Begin      End     
+ Io B      09:05     10:04                                            
+ Hr Ang    -04.1     -03.1     
+
+_______________________________
+
+< Year 2018   Month 1   Day 2 >
+
+           Begin      End     
+ Io A      15:01     16:15                                            
+ Hr Ang    02.0      03.2      
+
+_______________________________
+
+< Year 2018   Month 1   Day 4 >
+
+           Begin      End     
+ Io A      15:22     17:53                                            
+ Hr Ang    02.5      05.0      
+
+_______________________________
+
+< Year 2018   Month 1   Day 6 >
+
+           Begin      End     
+ Io A      07:43     09:35                                            
+ Hr Ang    -05.1     -03.2     
+
+ Io C      09:33     10:39                                            
+ Hr Ang    -03.3     -02.2     
+
+_______________________________
+
+< Year 2018   Month 1   Day 7 >
+
+           Begin      End     
+ Io B      09:49     12:02                                            
+ Hr Ang    -02.9     -00.7     
+
+_______________________________
+
+< Year 2018   Month 1   Day 11 >
+
+           Begin      End     
+ Io A      16:07     17:35                                            
+ Hr Ang    03.6      05.1      
+
+_______________________________
+
+< Year 2018   Month 1   Day 13 >
+
+           Begin      End     
+ Io A      07:49     10:19                                            
+ Hr Ang    -04.6     -02.1     
+
+ Io C      10:18     12:15                                            
+ Hr Ang    -02.1     -00.2     
+
+_______________________________
+
+< Year 2018   Month 1   Day 14 >
+
+           Begin      End     
+ Io B      10:33     13:37                                            
+ Hr Ang    -01.8     01.3      
+
+_______________________________
+
+< Year 2018   Month 1   Day 18 >
+
+           Begin      End     
+ Io A      16:51     17:10                                            
+ Hr Ang    04.7      05.0      
+
+_______________________________
+
+< Year 2018   Month 1   Day 20 >
+
+           Begin      End     
+ Io A      08:33     11:04                                            
+ Hr Ang    -03.5     -01.0     
+
+ Io C      11:28     12:59                                            
+ Hr Ang    -00.6     01.0      
+
+_______________________________
+
+< Year 2018   Month 1   Day 21 >
+
+           Begin      End     
+ Io B      12:17     14:21                                            
+ Hr Ang    00.3      02.4      
+
+_______________________________
+
+< Year 2018   Month 1   Day 22 >
+
+           Begin      End     
+ Io A      10:11     10:50                                            
+ Hr Ang    -01.7     -01.1     
+
+_______________________________
+
+< Year 2018   Month 1   Day 27 >
+
+           Begin      End     
+ Io A      09:50     11:48                                            
+ Hr Ang    -01.8     00.2      
+
+ Io C      13:23     13:43                                            
+ Hr Ang    01.8      02.1      
+
+_______________________________
+
+< Year 2018   Month 1   Day 28 >
+
+           Begin      End     
+ Io B      14:13     15:05                                            
+ Hr Ang    02.7      03.5      
+
+_______________________________
+
+< Year 2018   Month 1   Day 29 >
+
+           Begin      End     
+ Io A      10:55     12:44                                            
+ Hr Ang    -00.6     01.2      
+
+_______________________________
+
+< Year 2018   Month 2   Day 1 >
+
+           Begin      End     
+ Io B      06:19     06:46                                            
+ Hr Ang    -05.0     -04.6     
+
+_______________________________
+
+< Year 2018   Month 2   Day 3 >
+
+           Begin      End     
+ Io A      11:45     12:31                                            
+ Hr Ang    00.5      01.3      
+
+_______________________________
+
+< Year 2018   Month 2   Day 5 >
+
+           Begin      End     
+ Io A      11:38     14:09                                            
+ Hr Ang    00.5      03.1      
+
+_______________________________
+
+< Year 2018   Month 2   Day 7 >
+
+           Begin      End     
+ Io C      05:58     07:23                                            
+ Hr Ang    -05.0     -03.6     
+
+_______________________________
+
+< Year 2018   Month 2   Day 8 >
+
+           Begin      End     
+ Io B      06:05     08:40                                            
+ Hr Ang    -04.9     -02.3     
+
+_______________________________
+
+< Year 2018   Month 2   Day 12 >
+
+           Begin      End     
+ Io A      12:22     14:52                                            
+ Hr Ang    01.7      04.2      
+
+_______________________________
+
+< Year 2018   Month 2   Day 13 >
+
+           Begin      End     
+ Io B      15:06     15:11                                            
+ Hr Ang    04.5      04.6      
+
+_______________________________
+
+< Year 2018   Month 2   Day 14 >
+
+           Begin      End     
+ Io A      05:34     06:34                                            
+ Hr Ang    -05.0     -04.0     
+
+ Io C      06:33     08:30                                            
+ Hr Ang    -04.0     -02.1     
+
+_______________________________
+
+< Year 2018   Month 2   Day 15 >
+
+           Begin      End     
+ Io B      06:54     09:52                                            
+ Hr Ang    -03.6     -00.6     
+
+_______________________________
+
+< Year 2018   Month 2   Day 19 >
+
+           Begin      End     
+ Io A      13:05     14:53                                            
+ Hr Ang    02.8      04.6      
+
+_______________________________
+
+< Year 2018   Month 2   Day 21 >
+
+           Begin      End     
+ Io A      05:08     07:17                                            
+ Hr Ang    -05.0     -02.9     
+
+ Io C      08:04     09:13                                            
+ Hr Ang    -02.1     -00.9     
+
+_______________________________
+
+< Year 2018   Month 2   Day 22 >
+
+           Begin      End     
+ Io B      08:46     10:35                                            
+ Hr Ang    -01.3     00.5      
+
+_______________________________
+
+< Year 2018   Month 2   Day 23 >
+
+           Begin      End     
+ Io A      06:24     07:24                                            
+ Hr Ang    -03.6     -02.6     
+
+_______________________________
+
+< Year 2018   Month 2   Day 26 >
+
+           Begin      End     
+ Io A      13:48     14:34                                            
+ Hr Ang    04.0      04.8      
+
+_______________________________
+
+< Year 2018   Month 2   Day 28 >
+
+           Begin      End     
+ Io A      06:22     08:00                                            
+ Hr Ang    -03.3     -01.7     
+
+ Io C      09:54     09:56                                            
+ Hr Ang    00.2      00.2      
+
+_______________________________
+
+< Year 2018   Month 3   Day 1 >
+
+           Begin      End     
+ Io B      10:38     11:18                                            
+ Hr Ang    01.0      01.7      
+
+_______________________________
+
+< Year 2018   Month 3   Day 2 >
+
+           Begin      End     
+ Io A      07:07     09:14                                            
+ Hr Ang    -02.5     -00.3     
+
+_______________________________
+
+< Year 2018   Month 3   Day 7 >
+
+           Begin      End     
+ Io A      08:12     08:43                                            
+ Hr Ang    -01.1     -00.5     
+
+_______________________________
+
+< Year 2018   Month 3   Day 9 >
+
+           Begin      End     
+ Io A      07:50     10:20                                            
+ Hr Ang    -01.3     01.2      
+
+_______________________________
+
+< Year 2018   Month 3   Day 12 >
+
+           Begin      End     
+ Io B      03:56     05:01                                            
+ Hr Ang    -05.0     -03.9     
+
+_______________________________
+
+< Year 2018   Month 3   Day 16 >
+
+           Begin      End     
+ Io A      08:32     11:03                                            
+ Hr Ang    -00.1     02.4      
+
+ Io C      11:01     11:06                                            
+ Hr Ang    02.4      02.4      
+
+_______________________________
+
+< Year 2018   Month 3   Day 17 >
+
+           Begin      End     
+ Io B      11:17     12:22                                            
+ Hr Ang    02.7      03.8      
+
+_______________________________
+
+< Year 2018   Month 3   Day 18 >
+
+           Begin      End     
+ Io C      03:32     04:40                                            
+ Hr Ang    -05.0     -03.9     
+
+_______________________________
+
+< Year 2018   Month 3   Day 19 >
+
+           Begin      End     
+ Io B      03:28     06:02                                            
+ Hr Ang    -05.0     -02.4     
+
+_______________________________
+
+< Year 2018   Month 3   Day 23 >
+
+           Begin      End     
+ Io A      09:14     11:45                                            
+ Hr Ang    01.0      03.6      
+
+ Io C      11:43     12:54                                            
+ Hr Ang    03.5      04.7      
+
+_______________________________
+
+< Year 2018   Month 3   Day 24 >
+
+           Begin      End     
+ Io B      11:59     13:06                                            
+ Hr Ang    03.9      05.0      
+
+_______________________________
+
+< Year 2018   Month 3   Day 25 >
+
+           Begin      End     
+ Io A      03:03     03:27                                            
+ Hr Ang    -05.0     -04.6     
+
+ Io C      04:18     05:22                                            
+ Hr Ang    -03.8     -02.7     
+
+_______________________________
+
+< Year 2018   Month 3   Day 26 >
+
+           Begin      End     
+ Io B      04:57     06:44                                            
+ Hr Ang    -03.0     -01.3     
+
+_______________________________
+
+< Year 2018   Month 3   Day 27 >
+
+           Begin      End     
+ Io A      02:55     03:34                                            
+ Hr Ang    -05.0     -04.4     
+
+_______________________________
+
+< Year 2018   Month 3   Day 30 >
+
+           Begin      End     
+ Io A      09:57     12:27                                            
+ Hr Ang    02.2      04.8      
+
+ Io C      12:25     12:42                                            
+ Hr Ang    04.7      05.0      
+
+_______________________________
+
+< Year 2018   Month 4   Day 1 >
+
+           Begin      End     
+ Io A      02:34     04:09                                            
+ Hr Ang    -05.0     -03.4     
+
+_______________________________
+
+< Year 2018   Month 4   Day 2 >
+
+           Begin      End     
+ Io B      06:44     07:26                                            
+ Hr Ang    -00.8     -00.1     
+
+_______________________________
+
+< Year 2018   Month 4   Day 3 >
+
+           Begin      End     
+ Io A      03:15     05:21                                            
+ Hr Ang    -04.2     -02.1     
+
+_______________________________
+
+< Year 2018   Month 4   Day 6 >
+
+           Begin      End     
+ Io A      10:39     12:13                                            
+ Hr Ang    03.4      05.0      
+
+_______________________________
+
+< Year 2018   Month 4   Day 8 >
+
+           Begin      End     
+ Io A      04:18     04:51                                            
+ Hr Ang    -02.8     -02.2     
+
+_______________________________
+
+< Year 2018   Month 4   Day 10 >
+
+           Begin      End     
+ Io A      03:57     06:28                                            
+ Hr Ang    -03.0     -00.5     
+
+_______________________________
+
+< Year 2018   Month 4   Day 13 >
+
+           Begin      End     
+ Io A      11:34     11:44                                            
+ Hr Ang    04.9      05.0      
+
+_______________________________
+
+< Year 2018   Month 4   Day 17 >
+
+           Begin      End     
+ Io A      04:39     07:09                                            
+ Hr Ang    -01.8     00.7      
+
+_______________________________
+
+< Year 2018   Month 4   Day 18 >
+
+           Begin      End     
+ Io B      07:23     08:20                                            
+ Hr Ang    01.0      02.0      
+
+_______________________________
+
+< Year 2018   Month 4   Day 20 >
+
+           Begin      End     
+ Io B      01:11     02:08                                            
+ Hr Ang    -05.0     -04.1     
+
+_______________________________
+
+< Year 2018   Month 4   Day 24 >
+
+           Begin      End     
+ Io A      05:21     07:51                                            
+ Hr Ang    -00.6     01.9      
+
+ Io C      07:50     08:50                                            
+ Hr Ang    01.9      02.9      
+
+_______________________________
+
+< Year 2018   Month 4   Day 25 >
+
+           Begin      End     
+ Io B      08:05     10:04                                            
+ Hr Ang    02.2      04.2      
+
+_______________________________
+
+< Year 2018   Month 4   Day 26 >
+
+           Begin      End     
+ Io C      00:44     01:29                                            
+ Hr Ang    -05.1     -04.3     
+
+_______________________________
+
+< Year 2018   Month 4   Day 27 >
+
+           Begin      End     
+ Io B      00:52     02:50                                            
+ Hr Ang    -04.8     -02.9     
+
+_______________________________
+
+< Year 2018   Month 5   Day 1 >
+
+           Begin      End     
+ Io A      06:02     08:33                                            
+ Hr Ang    00.6      03.2      
+
+ Io C      08:31     10:27                                            
+ Hr Ang    03.1      05.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 2 >
+
+           Begin      End     
+ Io B      08:47     10:23                                            
+ Hr Ang    03.5      05.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 3 >
+
+           Begin      End     
+ Io A      00:12     00:15                                            
+ Hr Ang    -05.1     -05.0     
+
+ Io C      01:55     02:10                                            
+ Hr Ang    -03.4     -03.1     
+
+_______________________________
+
+< Year 2018   Month 5   Day 4 >
+
+           Begin      End     
+ Io B      02:36     03:32                                            
+ Hr Ang    -02.6     -01.7     
+
+_______________________________
+
+< Year 2018   Month 5   Day 5 >
+
+           Begin      End     
+ Io A      00:03     01:09                                            
+ Hr Ang    -05.1     -04.0     
+
+_______________________________
+
+< Year 2018   Month 5   Day 8 >
+
+           Begin      End     
+ Io A      06:44     09:15                                            
+ Hr Ang    01.8      04.4      
+
+ Io C      09:13     09:57                                            
+ Hr Ang    04.3      05.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 10 >
+
+           Begin      End     
+ Io A      00:07     00:56     08:21     08:29                        
+ Hr Ang    -04.6     -03.8     03.6      03.8      
+
+_______________________________
+
+< Year 2018   Month 5   Day 12 >
+
+           Begin      End     
+ Io A      00:03     02:33                                            
+ Hr Ang    -04.6     -02.0     
+
+_______________________________
+
+< Year 2018   Month 5   Day 15 >
+
+           Begin      End     
+ Io A      07:26     09:26                                            
+ Hr Ang    03.1      05.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 17 >
+
+           Begin      End     
+ Io A      09:03     09:18                                            
+ Hr Ang    04.8      05.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 19 >
+
+           Begin      End     
+ Io A      00:45     03:16                                            
+ Hr Ang    -03.3     -00.8     
+
+_______________________________
+
+< Year 2018   Month 5   Day 20 >
+
+           Begin      End     
+ Io B      03:29     04:10                                            
+ Hr Ang    -00.5     00.2      
+
+_______________________________
+
+< Year 2018   Month 5   Day 26 >
+
+           Begin      End     
+ Io A      01:27     03:58                                            
+ Hr Ang    -02.1     00.4      
+
+ Io C      03:56     04:37                                            
+ Hr Ang    00.4      01.1      
+
+_______________________________
+
+< Year 2018   Month 5   Day 27 >
+
+           Begin      End     
+ Io B      04:12     05:54                                            
+ Hr Ang    00.7      02.4      
+
+_______________________________
+
+< Year 2018   Month 5   Day 28 >
+
+           Begin      End     
+ Io B      22:14     22:57                                            
+ Hr Ang    -05.1     -04.4     
+
+_______________________________
+
+< Year 2018   Month 6   Day 2 >
+
+           Begin      End     
+ Io A      02:10     04:40                                            
+ Hr Ang    -00.9     01.6      
+
+ Io C      04:39     06:22                                            
+ Hr Ang    01.6      03.3      
+
+_______________________________
+
+< Year 2018   Month 6   Day 3 >
+
+           Begin      End     
+ Io B      04:54     07:39                                            
+ Hr Ang    01.9      04.7      
+
+ Io C      21:47     22:18                                            
+ Hr Ang    -05.1     -04.6     
+
+_______________________________
+
+< Year 2018   Month 6   Day 4 >
+
+           Begin      End     
+ Io B      22:28     23:40                                            
+ Hr Ang    -04.4     -03.2     
+
+_______________________________
+
+< Year 2018   Month 6   Day 9 >
+
+           Begin      End     
+ Io A      02:52     05:23                                            
+ Hr Ang    00.3      02.8      
+
+ Io C      05:21     07:19                                            
+ Hr Ang    02.8      04.8      
+
+_______________________________
+
+< Year 2018   Month 6   Day 10 >
+
+           Begin      End     
+ Io B      05:45     07:35                                            
+ Hr Ang    03.3      05.1      
+
+_______________________________
+
+< Year 2018   Month 6   Day 12 >
+
+           Begin      End     
+ Io A      21:12     22:42                                            
+ Hr Ang    -05.1     -03.6     
+
+ Io B      00:14     00:22                                            
+ Hr Ang    -02.1     -02.0     
+
+_______________________________
+
+< Year 2018   Month 6   Day 16 >
+
+           Begin      End     
+ Io A      03:35     06:06                                            
+ Hr Ang    01.5      04.1      
+
+ Io C      06:51     07:10                                            
+ Hr Ang    04.8      05.1      
+
+_______________________________
+
+< Year 2018   Month 6   Day 17 >
+
+           Begin      End     
+ Io A      21:41     21:48                                            
+ Hr Ang    -04.2     -04.1     
+
+_______________________________
+
+< Year 2018   Month 6   Day 18 >
+
+           Begin      End     
+ Io A      05:13     06:06                                            
+ Hr Ang    03.3      04.2      
+
+_______________________________
+
+< Year 2018   Month 6   Day 19 >
+
+           Begin      End     
+ Io A      21:14     23:25                                            
+ Hr Ang    -04.5     -02.4     
+
+_______________________________
+
+< Year 2018   Month 6   Day 20 >
+
+           Begin      End     
+ Io B      23:39     23:59                                            
+ Hr Ang    -02.1     -01.7     
+
+_______________________________
+
+< Year 2018   Month 6   Day 21 >
+
+           Begin      End     
+ Io B      00:00     00:10                                            
+ Hr Ang    -01.7     -01.5     
+
+_______________________________
+
+< Year 2018   Month 6   Day 23 >
+
+           Begin      End     
+ Io A      05:07     06:41                                            
+ Hr Ang    03.6      05.1      
+
+_______________________________
+
+< Year 2018   Month 6   Day 25 >
+
+           Begin      End     
+ Io A      05:56     06:33                                            
+ Hr Ang    04.5      05.1      
+
+_______________________________
+
+< Year 2018   Month 6   Day 26 >
+
+           Begin      End     
+ Io A      21:38     23:59                                            
+ Hr Ang    -03.7     -01.3     
+
+_______________________________
+
+< Year 2018   Month 6   Day 27 >
+
+           Begin      End     
+ Io A      00:00     00:09                                            
+ Hr Ang    -01.3     -01.1     
+
+ Io C      00:07     00:33                                            
+ Hr Ang    -01.2     -00.7     
+
+_______________________________
+
+< Year 2018   Month 6   Day 28 >
+
+           Begin      End     
+ Io B      00:23     01:58                                            
+ Hr Ang    -00.8     00.8      
+
+_______________________________
+
+< Year 2018   Month 7   Day 3 >
+
+           Begin      End     
+ Io A      22:22     23:59                                            
+ Hr Ang    -02.4     -00.8     
+
+_______________________________
+
+< Year 2018   Month 7   Day 4 >
+
+           Begin      End     
+ Io A      00:00     00:53                                            
+ Hr Ang    -00.8     00.1      
+
+ Io C      00:51     02:23                                            
+ Hr Ang    00.0      01.6      
+
+_______________________________
+
+< Year 2018   Month 7   Day 5 >
+
+           Begin      End     
+ Io B      01:07     03:47                                            
+ Hr Ang    00.4      03.1      
+
+_______________________________
+
+< Year 2018   Month 7   Day 10 >
+
+           Begin      End     
+ Io A      23:06     23:59                                            
+ Hr Ang    -01.2     -00.4     
+
+_______________________________
+
+< Year 2018   Month 7   Day 11 >
+
+           Begin      End     
+ Io A      00:00     01:37                                            
+ Hr Ang    -00.3     01.3      
+
+ Io C      01:35     03:33                                            
+ Hr Ang    01.2      03.2      
+
+_______________________________
+
+< Year 2018   Month 7   Day 12 >
+
+           Begin      End     
+ Io B      01:58     04:54                                            
+ Hr Ang    01.7      04.6      
+
+_______________________________
+
+< Year 2018   Month 7   Day 17 >
+
+           Begin      End     
+ Io A      23:50     23:59                                            
+ Hr Ang    00.0      00.1      
+
+_______________________________
+
+< Year 2018   Month 7   Day 18 >
+
+           Begin      End     
+ Io A      00:00     02:21                                            
+ Hr Ang    00.1      02.5      
+
+ Io C      03:03     04:17                                            
+ Hr Ang    03.2      04.4      
+
+_______________________________
+
+< Year 2018   Month 7   Day 19 >
+
+           Begin      End     
+ Io B      03:49     04:57                                            
+ Hr Ang    04.0      05.1      
+
+_______________________________
+
+< Year 2018   Month 7   Day 20 >
+
+           Begin      End     
+ Io A      01:28     02:18                                            
+ Hr Ang    01.7      02.6      
+
+_______________________________
+
+< Year 2018   Month 7   Day 25 >
+
+           Begin      End     
+ Io A      01:24     03:06                                            
+ Hr Ang    02.0      03.7      
+
+_______________________________
+
+< Year 2018   Month 7   Day 27 >
+
+           Begin      End     
+ Io A      02:13     04:12                                            
+ Hr Ang    02.9      04.9      
+
+_______________________________
+
+< Year 2018   Month 7   Day 29 >
+
+           Begin      End     
+ Io B      21:08     22:14                                            
+ Hr Ang    -02.0     -00.9     
+
+_______________________________
+
+< Year 2018   Month 8   Day 1 >
+
+           Begin      End     
+ Io A      03:18     03:51                                            
+ Hr Ang    04.3      04.9      
+
+_______________________________
+
+< Year 2018   Month 8   Day 3 >
+
+           Begin      End     
+ Io A      02:58     04:00                                            
+ Hr Ang    04.1      05.1      
+
+_______________________________
+
+< Year 2018   Month 8   Day 4 >
+
+           Begin      End     
+ Io A      21:03     21:11                                            
+ Hr Ang    -01.7     -01.6     
+
+ Io C      21:09     22:51                                            
+ Hr Ang    -01.6     00.1      
+
+_______________________________
+
+< Year 2018   Month 8   Day 5 >
+
+           Begin      End     
+ Io B      21:25     23:59                                            
+ Hr Ang    -01.3     01.3      
+
+_______________________________
+
+< Year 2018   Month 8   Day 6 >
+
+           Begin      End     
+ Io B      00:00     00:15                                            
+ Hr Ang    01.3      01.6      
+
+_______________________________
+
+< Year 2018   Month 8   Day 11 >
+
+           Begin      End     
+ Io A      20:57     21:56                                            
+ Hr Ang    -01.4     -00.4     
+
+ Io C      21:54     23:52                                            
+ Hr Ang    -00.4     01.5      
+
+_______________________________
+
+< Year 2018   Month 8   Day 12 >
+
+           Begin      End     
+ Io B      22:25     23:59                                            
+ Hr Ang    00.2      01.7      
+
+_______________________________
+
+< Year 2018   Month 8   Day 13 >
+
+           Begin      End     
+ Io B      00:00     01:14                                            
+ Hr Ang    01.7      03.0      
+
+_______________________________
+
+< Year 2018   Month 8   Day 18 >
+
+           Begin      End     
+ Io A      20:49     22:42                                            
+ Hr Ang    -01.1     00.8      
+
+ Io C      23:37     23:59                                            
+ Hr Ang    01.7      02.1      
+
+_______________________________
+
+< Year 2018   Month 8   Day 19 >
+
+           Begin      End     
+ Io C      00:00     00:38                                            
+ Hr Ang    02.1      02.7      
+
+_______________________________
+
+< Year 2018   Month 8   Day 20 >
+
+           Begin      End     
+ Io A      21:49     22:59                                            
+ Hr Ang    00.0      01.2      
+
+ Io B      00:27     02:00                                            
+ Hr Ang    02.6      04.2      
+
+_______________________________
+
+< Year 2018   Month 8   Day 25 >
+
+           Begin      End     
+ Io A      22:01     23:27                                            
+ Hr Ang    00.5      02.0      
+
+_______________________________
+
+< Year 2018   Month 8   Day 27 >
+
+           Begin      End     
+ Io A      22:35     23:59                                            
+ Hr Ang    01.2      02.6      
+
+ Io B      02:24     02:31                                            
+ Hr Ang    05.0      05.1      
+
+_______________________________
+
+< Year 2018   Month 8   Day 28 >
+
+           Begin      End     
+ Io A      00:00     00:50                                            
+ Hr Ang    02.6      03.5      
+
+_______________________________
+
+< Year 2018   Month 9   Day 1 >
+
+           Begin      End     
+ Io A      23:58     23:59                                            
+ Hr Ang    02.9      02.9      
+
+_______________________________
+
+< Year 2018   Month 9   Day 2 >
+
+           Begin      End     
+ Io A      00:00     00:13                                            
+ Hr Ang    02.9      03.1      
+
+_______________________________
+
+< Year 2018   Month 9   Day 3 >
+
+           Begin      End     
+ Io A      23:21     23:59                                            
+ Hr Ang    02.4      03.0      
+
+_______________________________
+
+< Year 2018   Month 9   Day 4 >
+
+           Begin      End     
+ Io A      00:00     01:51                                            
+ Hr Ang    03.0      04.9      
+
+_______________________________
+
+< Year 2018   Month 9   Day 6 >
+
+           Begin      End     
+ Io B      20:21     20:52                                            
+ Hr Ang    -00.5     00.0      
+
+_______________________________
+
+< Year 2018   Month 9   Day 11 >
+
+           Begin      End     
+ Io A      00:07     01:38                                            
+ Hr Ang    03.5      05.0      
+
+_______________________________
+
+< Year 2018   Month 9   Day 12 >
+
+           Begin      End     
+ Io C      20:10     20:16                                            
+ Hr Ang    -00.3     -00.2     
+
+_______________________________
+
+< Year 2018   Month 9   Day 13 >
+
+           Begin      End     
+ Io B      20:09     21:38                                            
+ Hr Ang    -00.3     01.2      
+
+_______________________________
+
+< Year 2018   Month 9   Day 18 >
+
+           Begin      End     
+ Io A      00:53     01:14                                            
+ Hr Ang    04.7      05.0      
+
+_______________________________
+
+< Year 2018   Month 9   Day 19 >
+
+           Begin      End     
+ Io C      20:31     21:02                                            
+ Hr Ang    00.4      00.9      
+
+_______________________________
+
+< Year 2018   Month 9   Day 20 >
+
+           Begin      End     
+ Io B      21:12     22:24                                            
+ Hr Ang    01.2      02.4      
+
+_______________________________
+
+< Year 2018   Month 9   Day 26 >
+
+           Begin      End     
+ Io A      19:43     19:52                                            
+ Hr Ang    00.0      00.1      
+
+_______________________________
+
+< Year 2018   Month 9   Day 28 >
+
+           Begin      End     
+ Io A      19:39     21:30                                            
+ Hr Ang    00.0      01.9      
+
+_______________________________
+
+< Year 2018   Month 10   Day 5 >
+
+           Begin      End     
+ Io A      19:46     22:16                                            
+ Hr Ang    00.5      03.0      
+
+_______________________________
+
+< Year 2018   Month 10   Day 6 >
+
+           Begin      End     
+ Io B      22:31     23:22                                            
+ Hr Ang    03.3      04.2      
+
+_______________________________
+
+< Year 2018   Month 10   Day 12 >
+
+           Begin      End     
+ Io A      20:32     23:03                                            
+ Hr Ang    01.7      04.2      
+
+ Io C      23:01     23:49                                            
+ Hr Ang    04.2      05.0      
+
+_______________________________
+
+< Year 2018   Month 10   Day 13 >
+
+           Begin      End     
+ Io B      23:17     23:45                                            
+ Hr Ang    04.5      04.9      
+
+_______________________________
+
+< Year 2018   Month 10   Day 14 >
+
+           Begin      End     
+ Io A      13:49     13:54                                            
+ Hr Ang    -05.0     -04.9     
+
+_______________________________
+
+< Year 2018   Month 10   Day 16 >
+
+           Begin      End     
+ Io A      13:53     13:58                                            
+ Hr Ang    -04.8     -04.7     
+
+_______________________________
+
+< Year 2018   Month 10   Day 19 >
+
+           Begin      End     
+ Io A      21:18     23:26                                            
+ Hr Ang    02.8      04.9      
+
+_______________________________
+
+< Year 2018   Month 10   Day 21 >
+
+           Begin      End     
+ Io A      14:00     14:09                                            
+ Hr Ang    -04.4     -04.3     
+
+_______________________________
+
+< Year 2018   Month 10   Day 22 >
+
+           Begin      End     
+ Io B      18:41     18:50                                            
+ Hr Ang    00.3      00.5      
+
+_______________________________
+
+< Year 2018   Month 10   Day 26 >
+
+           Begin      End     
+ Io A      22:05     23:03                                            
+ Hr Ang    03.9      04.9      
+
+_______________________________
+
+< Year 2018   Month 10   Day 31 >
+
+           Begin      End     
+ Io B      18:15     18:29                                            
+ Hr Ang    00.4      00.6      
+
+_______________________________
+
+< Year 2018   Month 11   Day 2 >
+
+           Begin      End     
+ Io B      12:55     12:57                                            
+ Hr Ang    -04.9     -04.9     
+
+_______________________________
+
+< Year 2018   Month 11   Day 6 >
+
+           Begin      End     
+ Io A      17:56     18:42                                            
+ Hr Ang    00.3      01.1      
+
+ Io C      18:41     19:08                                            
+ Hr Ang    01.1      01.5      
+
+_______________________________
+
+< Year 2018   Month 11   Day 7 >
+
+           Begin      End     
+ Io B      18:57     20:29                                            
+ Hr Ang    01.4      03.0      
+
+_______________________________
+
+< Year 2018   Month 11   Day 9 >
+
+           Begin      End     
+ Io B      12:35     13:43                                            
+ Hr Ang    -04.9     -03.7     
+
+_______________________________
+
+< Year 2018   Month 11   Day 13 >
+
+           Begin      End     
+ Io A      17:29     19:28                                            
+ Hr Ang    00.2      02.2      
+
+ Io C      19:27     21:10                                            
+ Hr Ang    02.2      03.9      
+
+_______________________________
+
+< Year 2018   Month 11   Day 14 >
+
+           Begin      End     
+ Io B      19:43     22:01                                            
+ Hr Ang    02.5      04.8      
+
+_______________________________
+
+< Year 2018   Month 11   Day 15 >
+
+           Begin      End     
+ Io C      12:34     13:07                                            
+ Hr Ang    -04.6     -04.0     
+
+_______________________________
+
+< Year 2018   Month 11   Day 16 >
+
+           Begin      End     
+ Io B      13:24     14:29                                            
+ Hr Ang    -03.7     -02.6     
+
+_______________________________
+
+< Year 2018   Month 11   Day 20 >
+
+           Begin      End     
+ Io A      17:44     20:15                                            
+ Hr Ang    00.8      03.4      
+
+ Io C      20:13     21:42                                            
+ Hr Ang    03.3      04.8      
+
+_______________________________
+
+< Year 2018   Month 11   Day 21 >
+
+           Begin      End     
+ Io B      20:51     21:39                                            
+ Hr Ang    04.0      04.8      
+
+_______________________________
+
+< Year 2018   Month 11   Day 22 >
+
+           Begin      End     
+ Io A      19:22     19:26                                            
+ Hr Ang    02.6      02.7      
+
+_______________________________
+
+< Year 2018   Month 11   Day 24 >
+
+           Begin      End     
+ Io A      11:52     13:36                                            
+ Hr Ang    -04.8     -03.1     
+
+_______________________________
+
+< Year 2018   Month 11   Day 27 >
+
+           Begin      End     
+ Io A      18:37     21:01                                            
+ Hr Ang    02.1      04.5      
+
+_______________________________
+
+< Year 2018   Month 11   Day 29 >
+
+           Begin      End     
+ Io A      20:08     21:13                                            
+ Hr Ang    03.7      04.8      
+
+_______________________________
+
+< Year 2018   Month 12   Day 1 >
+
+           Begin      End     
+ Io A      11:51     14:21                                            
+ Hr Ang    -04.5     -02.0     
+
+_______________________________
+
+< Year 2018   Month 12   Day 2 >
+
+           Begin      End     
+ Io B      14:36     15:38                                            
+ Hr Ang    -01.7     -00.7     
+
+_______________________________
+
+< Year 2018   Month 12   Day 4 >
+
+           Begin      End     
+ Io A      20:38     20:58                                            
+ Hr Ang    04.5      04.8      
+
+_______________________________
+
+< Year 2018   Month 12   Day 8 >
+
+           Begin      End     
+ Io A      12:37     15:07                                            
+ Hr Ang    -03.4     -00.9     
+
+ Io C      15:06     16:11                                            
+ Hr Ang    -00.9     00.2      
+
+_______________________________
+
+< Year 2018   Month 12   Day 9 >
+
+           Begin      End     
+ Io B      15:22     17:38                                            
+ Hr Ang    -00.6     01.7      
+
+_______________________________
+
+< Year 2018   Month 12   Day 15 >
+
+           Begin      End     
+ Io A      13:23     15:53                                            
+ Hr Ang    -02.3     00.2      
+
+ Io C      15:51     17:49                                            
+ Hr Ang    00.2      02.2      
+
+_______________________________
+
+< Year 2018   Month 12   Day 16 >
+
+           Begin      End     
+ Io B      16:07     19:11                                            
+ Hr Ang    00.5      03.6      
+
+_______________________________
+
+< Year 2018   Month 12   Day 18 >
+
+           Begin      End     
+ Io B      10:44     10:54                                            
+ Hr Ang    -04.8     -04.6     
+
+_______________________________
+
+< Year 2018   Month 12   Day 22 >
+
+           Begin      End     
+ Io A      14:08     16:39                                            
+ Hr Ang    -01.2     01.4      
+
+ Io C      17:10     18:35                                            
+ Hr Ang    01.9      03.3      
+
+_______________________________
+
+< Year 2018   Month 12   Day 23 >
+
+           Begin      End     
+ Io B      18:00     19:57                                            
+ Hr Ang    02.8      04.7      
+
+_______________________________
+
+< Year 2018   Month 12   Day 24 >
+
+           Begin      End     
+ Io A      15:46     16:28                                            
+ Hr Ang    00.6      01.3      
+
+_______________________________
+
+< Year 2018   Month 12   Day 27 >
+
+           Begin      End     
+ Io B      10:18     10:41                                            
+ Hr Ang    -04.7     -04.4     
+
+_______________________________
+
+< Year 2018   Month 12   Day 29 >
+
+           Begin      End     
+ Io A      15:39     17:24                                            
+ Hr Ang    00.7      02.5      
+
+ Io C      19:11     19:20                                            
+ Hr Ang    04.3      04.4      
+
+_______________________________
+
+< Year 2018   Month 12   Day 31 >
+
+           Begin      End     
+ Io A      16:32     18:29                                            
+ Hr Ang    01.7      03.7      
+
+_______________________________
+
+< Year 2019   Month 1   Day 2 >
+
+           Begin      End     
+ Io A      10:01     10:45                                            
+ Hr Ang    -04.7     -04.0     
+
+ Io C      10:43     11:12                                            
+ Hr Ang    -04.0     -03.5     
+
+_______________________________
+
+< Year 2019   Month 1   Day 3 >
+
+           Begin      End     
+ Io B      10:59     12:42                                            
+ Hr Ang    -03.7     -02.0     
+
+_______________________________
+
+< Year 2019   Month 1   Day 5 >
+
+           Begin      End     
+ Io A      17:40     18:10                                            
+ Hr Ang    03.1      03.6      
+
+_______________________________
+
+< Year 2019   Month 1   Day 7 >
+
+           Begin      End     
+ Io A      17:17     19:10                                            
+ Hr Ang    02.8      04.7      
+
+_______________________________
+
+< Year 2019   Month 1   Day 9 >
+
+           Begin      End     
+ Io A      09:40     11:30                                            
+ Hr Ang    -04.7     -02.9     
+
+ Io C      11:28     13:12                                            
+ Hr Ang    -02.9     -01.2     
+
+_______________________________
+
+< Year 2019   Month 1   Day 10 >
+
+           Begin      End     
+ Io B      11:44     14:42                                            
+ Hr Ang    -02.6     00.4      
+
+_______________________________
+
+< Year 2019   Month 1   Day 14 >
+
+           Begin      End     
+ Io A      18:02     18:48                                            
+ Hr Ang    03.9      04.7      
+
+_______________________________
+
+< Year 2019   Month 1   Day 16 >
+
+           Begin      End     
+ Io A      09:45     12:15                                            
+ Hr Ang    -04.3     -01.8     
+
+ Io C      12:14     14:11                                            
+ Hr Ang    -01.8     00.2      
+
+_______________________________
+
+< Year 2019   Month 1   Day 17 >
+
+           Begin      End     
+ Io B      13:02     15:33                                            
+ Hr Ang    -00.9     01.6      
+
+_______________________________
+
+< Year 2019   Month 1   Day 18 >
+
+           Begin      End     
+ Io A      11:23     11:29                                            
+ Hr Ang    -02.5     -02.4     
+
+_______________________________
+
+< Year 2019   Month 1   Day 23 >
+
+           Begin      End     
+ Io A      10:35     13:00                                            
+ Hr Ang    -03.1     -00.7     
+
+ Io C      14:07     14:56                                            
+ Hr Ang    00.5      01.3      
+
+_______________________________
+
+< Year 2019   Month 1   Day 24 >
+
+           Begin      End     
+ Io B      15:01     16:18                                            
+ Hr Ang    01.4      02.7      
+
+_______________________________
+
+< Year 2019   Month 1   Day 25 >
+
+           Begin      End     
+ Io A      12:08     13:27                                            
+ Hr Ang    -01.4     -00.1     
+
+_______________________________
+
+< Year 2019   Month 1   Day 30 >
+
+           Begin      End     
+ Io A      12:34     13:45                                            
+ Hr Ang    -00.7     00.5      
+
+_______________________________
+
+< Year 2019   Month 2   Day 1 >
+
+           Begin      End     
+ Io A      12:52     15:23                                            
+ Hr Ang    -00.3     02.2      
+
+_______________________________
+
+< Year 2019   Month 2   Day 4 >
+
+           Begin      End     
+ Io B      08:21     09:35                                            
+ Hr Ang    -04.7     -03.4     
+
+_______________________________
+
+< Year 2019   Month 2   Day 8 >
+
+           Begin      End     
+ Io A      13:37     15:29                                            
+ Hr Ang    00.8      02.7      
+
+_______________________________
+
+< Year 2019   Month 2   Day 10 >
+
+           Begin      End     
+ Io C      08:02     09:45                                            
+ Hr Ang    -04.7     -03.0     
+
+_______________________________
+
+< Year 2019   Month 2   Day 11 >
+
+           Begin      End     
+ Io B      08:04     11:07                                            
+ Hr Ang    -04.6     -01.5     
+
+_______________________________
+
+< Year 2019   Month 2   Day 15 >
+
+           Begin      End     
+ Io A      14:21     15:06                                            
+ Hr Ang    01.9      02.7      
+
+_______________________________
+
+< Year 2019   Month 2   Day 17 >
+
+           Begin      End     
+ Io A      07:40     08:34                                            
+ Hr Ang    -04.7     -03.8     
+
+ Io C      09:00     10:30                                            
+ Hr Ang    -03.3     -01.8     
+
+_______________________________
+
+< Year 2019   Month 2   Day 18 >
+
+           Begin      End     
+ Io B      09:51     11:52                                            
+ Hr Ang    -02.4     -00.4     
+
+_______________________________
+
+< Year 2019   Month 2   Day 19 >
+
+           Begin      End     
+ Io A      07:41     08:22                                            
+ Hr Ang    -04.5     -03.9     
+
+_______________________________
+
+< Year 2019   Month 2   Day 24 >
+
+           Begin      End     
+ Io A      07:24     09:18                                            
+ Hr Ang    -04.5     -02.6     
+
+ Io C      10:56     11:14                                            
+ Hr Ang    -01.0     -00.7     
+
+_______________________________
+
+< Year 2019   Month 2   Day 25 >
+
+           Begin      End     
+ Io B      11:48     12:36                                            
+ Hr Ang    -00.1     00.7      
+
+_______________________________
+
+< Year 2019   Month 2   Day 26 >
+
+           Begin      End     
+ Io A      08:25     10:17                                            
+ Hr Ang    -03.4     -01.5     
+
+_______________________________
+
+< Year 2019   Month 3   Day 3 >
+
+           Begin      End     
+ Io A      09:19     10:02                                            
+ Hr Ang    -02.2     -01.5     
+
+_______________________________
+
+< Year 2019   Month 3   Day 5 >
+
+           Begin      End     
+ Io A      09:09     11:40                                            
+ Hr Ang    -02.3     00.2      
+
+_______________________________
+
+< Year 2019   Month 3   Day 12 >
+
+           Begin      End     
+ Io A      09:53     12:23                                            
+ Hr Ang    -01.1     01.4      
+
+_______________________________
+
+< Year 2019   Month 3   Day 13 >
+
+           Begin      End     
+ Io B      12:37     13:44                                            
+ Hr Ang    01.7      02.8      
+
+_______________________________
+
+< Year 2019   Month 3   Day 15 >
+
+           Begin      End     
+ Io B      06:11     07:23                                            
+ Hr Ang    -04.7     -03.5     
+
+_______________________________
+
+< Year 2019   Month 3   Day 19 >
+
+           Begin      End     
+ Io A      10:36     13:07                                            
+ Hr Ang    00.0      02.5      
+
+ Io C      13:05     13:45                                            
+ Hr Ang    02.5      03.2      
+
+_______________________________
+
+< Year 2019   Month 3   Day 20 >
+
+           Begin      End     
+ Io B      13:20     13:43                                            
+ Hr Ang    02.8      03.2      
+
+_______________________________
+
+< Year 2019   Month 3   Day 21 >
+
+           Begin      End     
+ Io C      05:50     06:44                                            
+ Hr Ang    -04.7     -03.8     
+
+_______________________________
+
+< Year 2019   Month 3   Day 22 >
+
+           Begin      End     
+ Io B      06:23     08:06                                            
+ Hr Ang    -04.0     -02.3     
+
+_______________________________
+
+< Year 2019   Month 3   Day 26 >
+
+           Begin      End     
+ Io A      11:19     13:31                                            
+ Hr Ang    01.2      03.4      
+
+_______________________________
+
+< Year 2019   Month 3   Day 28 >
+
+           Begin      End     
+ Io A      05:24     05:32                                            
+ Hr Ang    -04.7     -04.5     
+
+_______________________________
+
+< Year 2019   Month 3   Day 29 >
+
+           Begin      End     
+ Io B      08:16     08:49                                            
+ Hr Ang    -01.7     -01.2     
+
+_______________________________
+
+< Year 2019   Month 3   Day 30 >
+
+           Begin      End     
+ Io A      05:17     06:51                                            
+ Hr Ang    -04.7     -03.1     
+
+_______________________________
+
+< Year 2019   Month 4   Day 2 >
+
+           Begin      End     
+ Io A      12:02     13:17                                            
+ Hr Ang    02.3      03.6      
+
+_______________________________
+
+< Year 2019   Month 4   Day 4 >
+
+           Begin      End     
+ Io A      05:48     06:14                                            
+ Hr Ang    -03.8     -03.4     
+
+_______________________________
+
+< Year 2019   Month 4   Day 6 >
+
+           Begin      End     
+ Io A      05:21     07:52                                            
+ Hr Ang    -04.1     -01.6     
+
+_______________________________
+
+< Year 2019   Month 4   Day 7 >
+
+           Begin      End     
+ Io B      08:06     08:11                                            
+ Hr Ang    -01.3     -01.2     
+
+_______________________________
+
+< Year 2019   Month 4   Day 13 >
+
+           Begin      End     
+ Io A      06:04     08:34                                            
+ Hr Ang    -03.0     -00.5     
+
+ Io C      08:33     08:44                                            
+ Hr Ang    -00.5     -00.3     
+
+_______________________________
+
+< Year 2019   Month 4   Day 14 >
+
+           Begin      End     
+ Io B      08:48     10:01                                            
+ Hr Ang    -00.2     01.1      
+
+_______________________________
+
+< Year 2019   Month 4   Day 20 >
+
+           Begin      End     
+ Io A      06:46     09:17                                            
+ Hr Ang    -01.8     00.7      
+
+ Io C      09:15     10:31                                            
+ Hr Ang    00.7      02.0      
+
+_______________________________
+
+< Year 2019   Month 4   Day 21 >
+
+           Begin      End     
+ Io B      09:31     11:50                                            
+ Hr Ang    01.0      03.4      
+
+_______________________________
+
+< Year 2019   Month 4   Day 23 >
+
+           Begin      End     
+ Io B      03:43     04:16                                            
+ Hr Ang    -04.7     -04.1     
+
+_______________________________
+
+< Year 2019   Month 4   Day 27 >
+
+           Begin      End     
+ Io A      07:28     09:59                                            
+ Hr Ang    -00.6     01.9      
+
+ Io C      09:57     11:55                                            
+ Hr Ang    01.9      03.8      
+
+_______________________________
+
+< Year 2019   Month 4   Day 28 >
+
+           Begin      End     
+ Io B      10:13     12:37                                            
+ Hr Ang    02.2      04.6      
+
+_______________________________
+
+< Year 2019   Month 4   Day 30 >
+
+           Begin      End     
+ Io B      04:23     04:58                                            
+ Hr Ang    -03.5     -02.9     
+
+_______________________________
+
+< Year 2019   Month 5   Day 4 >
+
+           Begin      End     
+ Io A      08:10     10:41                                            
+ Hr Ang    00.6      03.1      
+
+ Io C      11:00     12:13                                            
+ Hr Ang    03.4      04.6      
+
+_______________________________
+
+< Year 2019   Month 5   Day 5 >
+
+           Begin      End     
+ Io B      11:46     12:09                                            
+ Hr Ang    04.3      04.6      
+
+_______________________________
+
+< Year 2019   Month 5   Day 6 >
+
+           Begin      End     
+ Io A      09:48     10:20                                            
+ Hr Ang    02.4      02.9      
+
+_______________________________
+
+< Year 2019   Month 5   Day 8 >
+
+           Begin      End     
+ Io A      02:40     04:00                                            
+ Hr Ang    -04.7     -03.3     
+
+_______________________________
+
+< Year 2019   Month 5   Day 9 >
+
+           Begin      End     
+ Io B      04:13     04:15                                            
+ Hr Ang    -03.0     -03.0     
+
+_______________________________
+
+< Year 2019   Month 5   Day 11 >
+
+           Begin      End     
+ Io A      09:13     11:23                                            
+ Hr Ang    02.1      04.3      
+
+_______________________________
+
+< Year 2019   Month 5   Day 13 >
+
+           Begin      End     
+ Io A      10:29     11:35                                            
+ Hr Ang    03.5      04.6      
+
+_______________________________
+
+< Year 2019   Month 5   Day 15 >
+
+           Begin      End     
+ Io A      02:11     04:41                                            
+ Hr Ang    -04.6     -02.1     
+
+ Io C      04:40     04:46                                            
+ Hr Ang    -02.2     -02.1     
+
+_______________________________
+
+< Year 2019   Month 5   Day 16 >
+
+           Begin      End     
+ Io B      04:55     06:00                                            
+ Hr Ang    -01.8     -00.7     
+
+_______________________________
+
+< Year 2019   Month 5   Day 18 >
+
+           Begin      End     
+ Io A      10:58     11:14                                            
+ Hr Ang    04.4      04.7      
+
+_______________________________
+
+< Year 2019   Month 5   Day 22 >
+
+           Begin      End     
+ Io A      02:53     05:23                                            
+ Hr Ang    -03.4     -00.9     
+
+ Io C      05:22     06:31                                            
+ Hr Ang    -00.9     00.2      
+
+_______________________________
+
+< Year 2019   Month 5   Day 23 >
+
+           Begin      End     
+ Io B      05:37     07:45                                            
+ Hr Ang    -00.6     01.5      
+
+_______________________________
+
+< Year 2019   Month 5   Day 29 >
+
+           Begin      End     
+ Io A      03:35     06:05                                            
+ Hr Ang    -02.2     00.3      
+
+ Io C      06:03     08:01                                            
+ Hr Ang    00.3      02.2      
+
+_______________________________
+
+< Year 2019   Month 5   Day 30 >
+
+           Begin      End     
+ Io B      06:19     09:22                                            
+ Hr Ang    00.6      03.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 1 >
+
+           Begin      End     
+ Io B      00:55     01:04                                            
+ Hr Ang    -04.7     -04.5     
+
+_______________________________
+
+< Year 2019   Month 6   Day 5 >
+
+           Begin      End     
+ Io A      04:16     06:47                                            
+ Hr Ang    -01.0     01.5      
+
+ Io C      06:54     08:43                                            
+ Hr Ang    01.6      03.5      
+
+_______________________________
+
+< Year 2019   Month 6   Day 6 >
+
+           Begin      End     
+ Io B      07:34     09:50                                            
+ Hr Ang    02.4      04.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 7 >
+
+           Begin      End     
+ Io A      05:53     06:11                                            
+ Hr Ang    00.8      01.1      
+
+_______________________________
+
+< Year 2019   Month 6   Day 12 >
+
+           Begin      End     
+ Io A      05:05     07:29                                            
+ Hr Ang    00.3      02.7      
+
+ Io C      08:37     09:23                                            
+ Hr Ang    03.9      04.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 13 >
+
+           Begin      End     
+ Io B      09:18     09:19                                            
+ Hr Ang    04.6      04.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 14 >
+
+           Begin      End     
+ Io A      06:35     07:55                                            
+ Hr Ang    02.0      03.3      
+
+_______________________________
+
+< Year 2019   Month 6   Day 15 >
+
+           Begin      End     
+ Io A      23:48     23:59                                            
+ Hr Ang    -04.7     -04.5     
+
+_______________________________
+
+< Year 2019   Month 6   Day 16 >
+
+           Begin      End     
+ Io A      00:00     00:47                                            
+ Hr Ang    -04.5     -03.7     
+
+_______________________________
+
+< Year 2019   Month 6   Day 17 >
+
+           Begin      End     
+ Io B      01:01     01:50                                            
+ Hr Ang    -03.4     -02.5     
+
+_______________________________
+
+< Year 2019   Month 6   Day 19 >
+
+           Begin      End     
+ Io A      06:49     08:11                                            
+ Hr Ang    02.6      04.0      
+
+_______________________________
+
+< Year 2019   Month 6   Day 21 >
+
+           Begin      End     
+ Io A      07:17     08:43                                            
+ Hr Ang    03.2      04.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 22 >
+
+           Begin      End     
+ Io A      23:16     23:59                                            
+ Hr Ang    -04.7     -04.0     
+
+_______________________________
+
+< Year 2019   Month 6   Day 23 >
+
+           Begin      End     
+ Io A      00:00     01:29                                            
+ Hr Ang    -03.9     -02.4     
+
+ Io C      01:28     02:18                                            
+ Hr Ang    -02.5     -01.6     
+
+_______________________________
+
+< Year 2019   Month 6   Day 24 >
+
+           Begin      End     
+ Io B      01:43     03:34                                            
+ Hr Ang    -02.1     -00.3     
+
+_______________________________
+
+< Year 2019   Month 6   Day 28 >
+
+           Begin      End     
+ Io A      08:00     08:12                                            
+ Hr Ang    04.5      04.7      
+
+_______________________________
+
+< Year 2019   Month 6   Day 29 >
+
+           Begin      End     
+ Io A      23:41     23:59                                            
+ Hr Ang    -03.7     -03.4     
+
+_______________________________
+
+< Year 2019   Month 6   Day 30 >
+
+           Begin      End     
+ Io A      00:00     02:12                                            
+ Hr Ang    -03.4     -01.2     
+
+ Io C      02:10     04:03                                            
+ Hr Ang    -01.2     00.6      
+
+_______________________________
+
+< Year 2019   Month 7   Day 1 >
+
+           Begin      End     
+ Io B      02:26     05:18                                            
+ Hr Ang    -00.9     02.0      
+
+_______________________________
+
+< Year 2019   Month 7   Day 7 >
+
+           Begin      End     
+ Io A      00:24     02:54                                            
+ Hr Ang    -02.5     00.0      
+
+ Io C      02:53     04:50                                            
+ Hr Ang    00.0      01.9      
+
+_______________________________
+
+< Year 2019   Month 7   Day 8 >
+
+           Begin      End     
+ Io B      03:24     06:12                                            
+ Hr Ang    00.6      03.4      
+
+_______________________________
+
+< Year 2019   Month 7   Day 14 >
+
+           Begin      End     
+ Io A      01:07     03:37                                            
+ Hr Ang    -01.3     01.2      
+
+ Io C      04:31     05:33                                            
+ Hr Ang    02.1      03.2      
+
+_______________________________
+
+< Year 2019   Month 7   Day 15 >
+
+           Begin      End     
+ Io B      05:10     06:55                                            
+ Hr Ang    02.9      04.6      
+
+_______________________________
+
+< Year 2019   Month 7   Day 16 >
+
+           Begin      End     
+ Io A      02:44     03:47                                            
+ Hr Ang    00.5      01.5      
+
+_______________________________
+
+< Year 2019   Month 7   Day 18 >
+
+           Begin      End     
+ Io B      21:21     21:46                                            
+ Hr Ang    -04.7     -04.3     
+
+_______________________________
+
+< Year 2019   Month 7   Day 21 >
+
+           Begin      End     
+ Io A      02:46     04:20                                            
+ Hr Ang    00.9      02.5      
+
+_______________________________
+
+< Year 2019   Month 7   Day 23 >
+
+           Begin      End     
+ Io A      03:27     05:34                                            
+ Hr Ang    01.7      03.8      
+
+_______________________________
+
+< Year 2019   Month 7   Day 24 >
+
+           Begin      End     
+ Io A      21:11     21:40                                            
+ Hr Ang    -04.4     -04.0     
+
+ Io C      21:38     22:11                                            
+ Hr Ang    -04.0     -03.4     
+
+_______________________________
+
+< Year 2019   Month 7   Day 25 >
+
+           Begin      End     
+ Io B      21:54     23:34                                            
+ Hr Ang    -03.7     -02.0     
+
+_______________________________
+
+< Year 2019   Month 7   Day 28 >
+
+           Begin      End     
+ Io A      04:34     05:04                                            
+ Hr Ang    03.2      03.7      
+
+_______________________________
+
+< Year 2019   Month 7   Day 30 >
+
+           Begin      End     
+ Io A      04:11     05:56                                            
+ Hr Ang    02.9      04.7      
+
+_______________________________
+
+< Year 2019   Month 7   Day 31 >
+
+           Begin      End     
+ Io A      21:07     22:23                                            
+ Hr Ang    -04.0     -02.8     
+
+ Io C      22:22     23:59                                            
+ Hr Ang    -02.8     -01.1     
+
+_______________________________
+
+< Year 2019   Month 8   Day 1 >
+
+           Begin      End     
+ Io B      22:37     23:59                                            
+ Hr Ang    -02.5     -01.1     
+
+ Io C      00:00     00:02                                            
+ Hr Ang    -01.1     -01.1     
+
+_______________________________
+
+< Year 2019   Month 8   Day 2 >
+
+           Begin      End     
+ Io B      00:00     01:23                                            
+ Hr Ang    -01.1     00.3      
+
+_______________________________
+
+< Year 2019   Month 8   Day 6 >
+
+           Begin      End     
+ Io A      04:55     05:27                                            
+ Hr Ang    04.1      04.7      
+
+_______________________________
+
+< Year 2019   Month 8   Day 7 >
+
+           Begin      End     
+ Io A      21:01     23:07                                            
+ Hr Ang    -03.6     -01.5     
+
+ Io C      23:05     23:59                                            
+ Hr Ang    -01.6     -00.7     
+
+_______________________________
+
+< Year 2019   Month 8   Day 8 >
+
+           Begin      End     
+ Io B      23:35     23:59                                            
+ Hr Ang    -01.0     -00.6     
+
+ Io C      00:00     01:03                                            
+ Hr Ang    -00.7     00.4      
+
+_______________________________
+
+< Year 2019   Month 8   Day 9 >
+
+           Begin      End     
+ Io B      00:00     02:25                                            
+ Hr Ang    -00.6     01.8      
+
+_______________________________
+
+< Year 2019   Month 8   Day 14 >
+
+           Begin      End     
+ Io A      21:21     23:51                                            
+ Hr Ang    -02.8     -00.3     
+
+_______________________________
+
+< Year 2019   Month 8   Day 15 >
+
+           Begin      End     
+ Io C      00:40     01:47                                            
+ Hr Ang    00.5      01.6      
+
+_______________________________
+
+< Year 2019   Month 8   Day 16 >
+
+           Begin      End     
+ Io A      22:59     23:55                                            
+ Hr Ang    -01.1     -00.1     
+
+ Io B      01:24     03:09                                            
+ Hr Ang    01.3      03.0      
+
+_______________________________
+
+< Year 2019   Month 8   Day 21 >
+
+           Begin      End     
+ Io A      22:54     23:59                                            
+ Hr Ang    -00.8     00.2      
+
+_______________________________
+
+< Year 2019   Month 8   Day 22 >
+
+           Begin      End     
+ Io A      00:00     00:36                                            
+ Hr Ang    00.3      00.9      
+
+_______________________________
+
+< Year 2019   Month 8   Day 23 >
+
+           Begin      End     
+ Io A      23:43     23:59                                            
+ Hr Ang    00.1      00.4      
+
+ Io B      03:16     03:54                                            
+ Hr Ang    03.6      04.2      
+
+_______________________________
+
+< Year 2019   Month 8   Day 24 >
+
+           Begin      End     
+ Io A      00:00     01:49                                            
+ Hr Ang    00.4      02.2      
+
+_______________________________
+
+< Year 2019   Month 8   Day 29 >
+
+           Begin      End     
+ Io A      00:54     01:21                                            
+ Hr Ang    01.6      02.1      
+
+_______________________________
+
+< Year 2019   Month 8   Day 31 >
+
+           Begin      End     
+ Io A      00:28     02:59                                            
+ Hr Ang    01.3      03.8      
+
+_______________________________
+
+< Year 2019   Month 9   Day 1 >
+
+           Begin      End     
+ Io B      03:13     03:19                                            
+ Hr Ang    04.1      04.2      
+
+_______________________________
+
+< Year 2019   Month 9   Day 2 >
+
+           Begin      End     
+ Io B      20:28     21:44                                            
+ Hr Ang    -02.5     -01.3     
+
+_______________________________
+
+< Year 2019   Month 9   Day 7 >
+
+           Begin      End     
+ Io A      01:13     03:24                                            
+ Hr Ang    02.5      04.7      
+
+_______________________________
+
+< Year 2019   Month 9   Day 8 >
+
+           Begin      End     
+ Io C      20:18     21:22                                            
+ Hr Ang    -02.3     -01.3     
+
+_______________________________
+
+< Year 2019   Month 9   Day 9 >
+
+           Begin      End     
+ Io B      20:16     22:44                                            
+ Hr Ang    -02.3     00.2      
+
+_______________________________
+
+< Year 2019   Month 9   Day 14 >
+
+           Begin      End     
+ Io A      01:59     02:59                                            
+ Hr Ang    03.7      04.7      
+
+_______________________________
+
+< Year 2019   Month 9   Day 15 >
+
+           Begin      End     
+ Io A      20:05     20:11                                            
+ Hr Ang    -02.1     -02.0     
+
+ Io C      21:10     22:07                                            
+ Hr Ang    -01.0     -00.1     
+
+_______________________________
+
+< Year 2019   Month 9   Day 16 >
+
+           Begin      End     
+ Io B      21:56     23:29                                            
+ Hr Ang    -00.2     01.3      
+
+_______________________________
+
+< Year 2019   Month 9   Day 17 >
+
+           Begin      End     
+ Io A      20:02     20:32                                            
+ Hr Ang    -02.1     -01.6     
+
+_______________________________
+
+< Year 2019   Month 9   Day 22 >
+
+           Begin      End     
+ Io A      19:52     20:57                                            
+ Hr Ang    -01.9     -00.9     
+
+_______________________________
+
+< Year 2019   Month 9   Day 23 >
+
+           Begin      End     
+ Io B      23:53     23:59                                            
+ Hr Ang    02.1      02.2      
+
+_______________________________
+
+< Year 2019   Month 9   Day 24 >
+
+           Begin      End     
+ Io A      20:04     22:28                                            
+ Hr Ang    -01.6     00.8      
+
+ Io B      00:00     00:15                                            
+ Hr Ang    02.3      02.5      
+
+_______________________________
+
+< Year 2019   Month 9   Day 29 >
+
+           Begin      End     
+ Io A      21:30     21:43                                            
+ Hr Ang    00.1      00.3      
+
+_______________________________
+
+< Year 2019   Month 10   Day 1 >
+
+           Begin      End     
+ Io A      20:50     23:21                                            
+ Hr Ang    -00.5     02.1      
+
+_______________________________
+
+< Year 2019   Month 10   Day 2 >
+
+           Begin      End     
+ Io B      23:35     23:58                                            
+ Hr Ang    02.4      02.7      
+
+_______________________________
+
+< Year 2019   Month 10   Day 3 >
+
+           Begin      End     
+ Io B      00:00     00:05                                            
+ Hr Ang    02.8      02.8      
+
+_______________________________
+
+< Year 2019   Month 10   Day 8 >
+
+           Begin      End     
+ Io A      21:36     23:59                                            
+ Hr Ang    00.7      03.1      
+
+_______________________________
+
+< Year 2019   Month 10   Day 9 >
+
+           Begin      End     
+ Io A      00:00     00:07                                            
+ Hr Ang    03.1      03.2      
+
+ Io C      00:05     00:35                                            
+ Hr Ang    03.2      03.7      
+
+_______________________________
+
+< Year 2019   Month 10   Day 10 >
+
+           Begin      End     
+ Io B      00:21     01:29                                            
+ Hr Ang    03.5      04.6      
+
+_______________________________
+
+< Year 2019   Month 10   Day 15 >
+
+           Begin      End     
+ Io A      22:22     23:59                                            
+ Hr Ang    01.8      03.5      
+
+_______________________________
+
+< Year 2019   Month 10   Day 16 >
+
+           Begin      End     
+ Io A      00:00     00:53                                            
+ Hr Ang    03.5      04.4      
+
+ Io C      00:51     01:09                                            
+ Hr Ang    04.3      04.6      
+
+_______________________________
+
+< Year 2019   Month 10   Day 18 >
+
+           Begin      End     
+ Io B      18:52     19:53                                            
+ Hr Ang    -01.5     -00.5     
+
+_______________________________
+
+< Year 2019   Month 10   Day 22 >
+
+           Begin      End     
+ Io A      23:08     23:59                                            
+ Hr Ang    03.0      03.8      
+
+_______________________________
+
+< Year 2019   Month 10   Day 23 >
+
+           Begin      End     
+ Io A      00:00     00:46                                            
+ Hr Ang    03.8      04.6      
+
+_______________________________
+
+< Year 2019   Month 10   Day 26 >
+
+           Begin      End     
+ Io A      18:31     19:00                                            
+ Hr Ang    -01.4     -00.9     
+
+_______________________________
+
+< Year 2019   Month 10   Day 29 >
+
+           Begin      End     
+ Io A      23:57     23:59                                            
+ Hr Ang    04.2      04.2      
+
+_______________________________
+
+< Year 2019   Month 10   Day 30 >
+
+           Begin      End     
+ Io A      00:00     00:24                                            
+ Hr Ang    04.2      04.6      
+
+_______________________________
+
+< Year 2019   Month 11   Day 2 >
+
+           Begin      End     
+ Io A      18:10     19:46                                            
+ Hr Ang    -01.4     00.2      
+
+_______________________________
+
+< Year 2019   Month 11   Day 3 >
+
+           Begin      End     
+ Io B      20:01     20:55                                            
+ Hr Ang    00.5      01.4      
+
+_______________________________
+
+< Year 2019   Month 11   Day 9 >
+
+           Begin      End     
+ Io A      18:02     20:32                                            
+ Hr Ang    -01.2     01.3      
+
+ Io C      20:31     21:39                                            
+ Hr Ang    01.3      02.4      
+
+_______________________________
+
+< Year 2019   Month 11   Day 10 >
+
+           Begin      End     
+ Io B      20:47     22:56                                            
+ Hr Ang    01.6      03.8      
+
+_______________________________
+
+< Year 2019   Month 11   Day 12 >
+
+           Begin      End     
+ Io B      14:27     15:15                                            
+ Hr Ang    -04.6     -03.8     
+
+_______________________________
+
+< Year 2019   Month 11   Day 16 >
+
+           Begin      End     
+ Io A      18:48     21:19                                            
+ Hr Ang    -00.1     02.5      
+
+ Io C      21:17     23:15                                            
+ Hr Ang    02.4      04.4      
+
+_______________________________
+
+< Year 2019   Month 11   Day 17 >
+
+           Begin      End     
+ Io B      21:33     23:24                                            
+ Hr Ang    02.7      04.6      
+
+_______________________________
+
+< Year 2019   Month 11   Day 19 >
+
+           Begin      End     
+ Io B      15:49     15:55                                            
+ Hr Ang    -02.9     -02.8     
+
+_______________________________
+
+< Year 2019   Month 11   Day 20 >
+
+           Begin      End     
+ Io A      14:03     14:26                                            
+ Hr Ang    -04.6     -04.2     
+
+_______________________________
+
+< Year 2019   Month 11   Day 23 >
+
+           Begin      End     
+ Io A      19:35     22:05                                            
+ Hr Ang    01.1      03.6      
+
+ Io C      22:37     23:06                                            
+ Hr Ang    04.1      04.6      
+
+_______________________________
+
+< Year 2019   Month 11   Day 25 >
+
+           Begin      End     
+ Io A      21:13     21:58                                            
+ Hr Ang    02.8      03.6      
+
+_______________________________
+
+< Year 2019   Month 11   Day 27 >
+
+           Begin      End     
+ Io A      13:42     15:26                                            
+ Hr Ang    -04.6     -02.9     
+
+_______________________________
+
+< Year 2019   Month 11   Day 28 >
+
+           Begin      End     
+ Io B      15:41     16:02                                            
+ Hr Ang    -02.6     -02.2     
+
+_______________________________
+
+< Year 2019   Month 11   Day 30 >
+
+           Begin      End     
+ Io A      21:05     22:44                                            
+ Hr Ang    02.9      04.6      
+
+_______________________________
+
+< Year 2019   Month 12   Day 2 >
+
+           Begin      End     
+ Io A      21:59     22:39                                            
+ Hr Ang    03.9      04.6      
+
+_______________________________
+
+< Year 2019   Month 12   Day 4 >
+
+           Begin      End     
+ Io A      13:42     16:13                                            
+ Hr Ang    -04.3     -01.7     
+
+ Io C      16:11     16:44                                            
+ Hr Ang    -01.8     -01.2     
+
+_______________________________
+
+< Year 2019   Month 12   Day 5 >
+
+           Begin      End     
+ Io B      16:27     18:03                                            
+ Hr Ang    -01.5     00.1      
+
+_______________________________
+
+< Year 2019   Month 12   Day 11 >
+
+           Begin      End     
+ Io A      14:28     16:59                                            
+ Hr Ang    -03.2     -00.6     
+
+ Io C      16:57     18:46                                            
+ Hr Ang    -00.7     01.2      
+
+_______________________________
+
+< Year 2019   Month 12   Day 12 >
+
+           Begin      End     
+ Io B      17:13     20:04                                            
+ Hr Ang    -00.4     02.5      
+
+_______________________________
+
+< Year 2019   Month 12   Day 18 >
+
+           Begin      End     
+ Io A      15:14     17:45                                            
+ Hr Ang    -02.0     00.5      
+
+ Io C      17:43     19:41                                            
+ Hr Ang    00.4      02.4      
+
+_______________________________
+
+< Year 2019   Month 12   Day 19 >
+
+           Begin      End     
+ Io B      18:26     21:03                                            
+ Hr Ang    01.2      03.8      
+
+_______________________________
+
+< Year 2019   Month 12   Day 20 >
+
+           Begin      End     
+ Io A      16:53     17:02                                            
+ Hr Ang    -00.3     -00.1     
+
+_______________________________
+
+< Year 2019   Month 12   Day 25 >
+
+           Begin      End     
+ Io A      16:13     18:31                                            
+ Hr Ang    -00.7     01.6      
+
+ Io C      19:45     20:27                                            
+ Hr Ang    02.8      03.5      
+
+_______________________________
+
+< Year 2019   Month 12   Day 26 >
+
+           Begin      End     
+ Io B      20:27     21:28                                            
+ Hr Ang    03.6      04.6      
+
+_______________________________
+
+< Year 2019   Month 12   Day 27 >
+
+           Begin      End     
+ Io A      17:39     19:05                                            
+ Hr Ang    00.8      02.3      
+
+_______________________________
+
+< Year 2019   Month 12   Day 30 >
+
+           Begin      End     
+ Io B      12:06     13:13                                            
+ Hr Ang    -04.6     -03.5     
+
+_______________________________
+
+< Year 2020   Month 1   Day 1 >
+
+           Begin      End     
+ Io A      18:15     19:17                                            
+ Hr Ang    01.7      02.7      
+
+_______________________________
+
+< Year 2020   Month 1   Day 3 >
+
+           Begin      End     
+ Io A      18:25     20:55                                            
+ Hr Ang    01.9      04.4      
+
+_______________________________
+
+< Year 2020   Month 1   Day 5 >
+
+           Begin      End     
+ Io A      11:47     12:38                                            
+ Hr Ang    -04.6     -03.8     
+
+ Io C      12:36     13:49                                            
+ Hr Ang    -03.8     -02.6     
+
+_______________________________
+
+< Year 2020   Month 1   Day 6 >
+
+           Begin      End     
+ Io B      12:52     15:14                                            
+ Hr Ang    -03.5     -01.1     
+
+_______________________________
+
+< Year 2020   Month 1   Day 10 >
+
+           Begin      End     
+ Io A      19:11     20:45                                            
+ Hr Ang    03.0      04.6      
+
+_______________________________
+
+< Year 2020   Month 1   Day 12 >
+
+           Begin      End     
+ Io A      11:26     13:24                                            
+ Hr Ang    -04.6     -02.7     
+
+ Io C      13:22     15:20                                            
+ Hr Ang    -02.7     -00.7     
+
+_______________________________
+
+< Year 2020   Month 1   Day 13 >
+
+           Begin      End     
+ Io B      13:38     16:42                                            
+ Hr Ang    -02.4     00.7      
+
+_______________________________
+
+< Year 2020   Month 1   Day 17 >
+
+           Begin      End     
+ Io A      19:57     20:24                                            
+ Hr Ang    04.2      04.6      
+
+_______________________________
+
+< Year 2020   Month 1   Day 19 >
+
+           Begin      End     
+ Io A      11:39     14:10                                            
+ Hr Ang    -04.1     -01.5     
+
+ Io C      14:49     16:06                                            
+ Hr Ang    -00.9     00.4      
+
+_______________________________
+
+< Year 2020   Month 1   Day 20 >
+
+           Begin      End     
+ Io B      15:36     17:28                                            
+ Hr Ang    -00.1     01.8      
+
+_______________________________
+
+< Year 2020   Month 1   Day 21 >
+
+           Begin      End     
+ Io A      13:17     14:07                                            
+ Hr Ang    -02.3     -01.5     
+
+_______________________________
+
+< Year 2020   Month 1   Day 26 >
+
+           Begin      End     
+ Io A      13:18     14:55                                            
+ Hr Ang    -02.1     -00.4     
+
+ Io C      16:50     16:51                                            
+ Hr Ang    01.5      01.5      
+
+_______________________________
+
+< Year 2020   Month 1   Day 27 >
+
+           Begin      End     
+ Io B      17:37     18:13                                            
+ Hr Ang    02.3      02.9      
+
+_______________________________
+
+< Year 2020   Month 1   Day 28 >
+
+           Begin      End     
+ Io A      14:03     16:08                                            
+ Hr Ang    -01.2     00.9      
+
+_______________________________
+
+End of Report
+
